@@ -1,0 +1,574 @@
+Category,Product Name,Price_PKR,Raw_Specs,Source,Brand,VRAM,RAM,Storage
+Laptop,Asus Vivobook X1504VA-NJ104 Core i5 13th Gen 8GB 512GB 15.6 FHD Dos Silver (Official Warranty),145000,,Galaxy_Booster,Asus,,8.0,512.0
+Laptop,"Lenovo IdeaPad 5 2-in-1 14IAL10 Intel Core Ultra 5 8GB 512GB SSD 14"" WUXGA Touch Display Backlit KB Win11 Cosmic Blue With Pen",178000,,Galaxy_Booster,Lenovo,,8.0,512.0
+Laptop,"Dell Inspiron 2-in-1 7440 Intel Core 5 120U 16GB 512GB SSD 14"" FHD x360 Touch Display Backlit KB FPR Win11 Ice Blue",179000,,Galaxy_Booster,Dell,,16.0,512.0
+Laptop,HP Victus 15-FB3093DX AMD Ryzen 7 16GB D5 512GB SSD 15.6″ FHD Display NVIDIA GeForce RTX 4050 6GB Graphics Backlit KB Win11 Mica Silver,240000,,Galaxy_Booster,Hp,,16.0,512.0
+Laptop,"Lenovo ThinkPad E16 G3 Intel Core 7 240H 16GB D5 512GB SSD 16"" WUXGA IPS Display Backlit KB Fingerprint Reader Dos Black (Official Warranty)",283500,,Deep_Scrape,Lenovo,,16.0,512.0
+Laptop,"Lenovo LOQ 15IRX10 Intel Core i7 14th Gen 24GB D5 512GB SSD 15.6"" FHD IPS 144Hz Display NVIDIA RTX 5060 8GB Graphics Backlit KB DOS Luna Grey",375000,,Deep_Scrape,Lenovo,,8.0,512.0
+Laptop,"HP OmniBook 7 Flip 16-AU0773CL Intel Core Ultra 7 258V 32GB 1TB SSD 16"" 3K OLED X360 Touch Display Backlit KB Win11 Glacier Silver With Pen",399000,,Deep_Scrape,Hp,,32.0,
+Laptop,Asus Zenbook 14 UX3405CA-PZ252W Intel Core Ultra 9 285H 16GB D5 1TB SSD 14.0″ 3K OLED Touch Display Backlit KB Win11 Ponder Blue (Official Warranty),442000,,Deep_Scrape,Asus,,16.0,
+Laptop,"Dell XPS 13 9345 Snapdragon X Elite X1E-80-100 32GB 1TB SSD 13.4"" OLED 3K Touchscreen Display Backlit KB Fingerprint Reader Win11 Graphite",470000,,Deep_Scrape,Dell,,32.0,
+Laptop,"Acer Predator Helios 18 AI PH18-73-96CY Intel Core Ultra 9 64GB D5 1TB SSD 18"" WQXGA IPS Mini LED 250Hz Display NVIDIA RTX 5080 16GB Graphics Backlit KB Win11 Home Black (Official Warranty)",955000,,Deep_Scrape,Acer,,64.0,
+GPU,EASE E740 GeForce GT740 4GB GDDR5,22000,,Bulk_Scrape_v3,Other,4.0,,
+GPU,EASE E305e GeForce RTX 3050 6GB DDR6,60000,,Bulk_Scrape_v3,Other,6.0,,
+GPU,EASE E305 GeForce RTX 3050 8G DDR6,74000,,Bulk_Scrape_v3,Other,8.0,,
+GPU,MSI GeForce RTX 3060 VENTUS 2X 12G OC,103000,,Bulk_Scrape_v3,Msi,12.0,,
+GPU,ZOTAC GAMING GeForce RTX 5060 SOLO 8GB 128BIT GDDR7,110000,,Bulk_Scrape_v3,Zotac,8.0,,
+GPU,PNY GeForce RTX™ 4060Ti 8GB VERTO™ Overclocked Dual Fan DLSS 3,150000,,Bulk_Scrape_v3,Pny,8.0,,
+GPU,PNY GeForce RTX™ 4060Ti 16GB VERTO™ Dual Fan DLSS 3,163000,,Bulk_Scrape_v3,Pny,16.0,,
+GPU,PNY GeForce RTX™ 4070 SUPER 12GB VERTO™ Overclocked Dual Fan DLSS 3,210000,,Bulk_Scrape_v3,Pny,12.0,,
+GPU,MSI GeForce RTX 4070 VENTUS 2X 12G OC,222000,,Bulk_Scrape_v3,Msi,12.0,,
+GPU,ZOTAC GAMING GeForce RTX 5070 12GB 192BIT SOLID,245000,,Bulk_Scrape_v3,Zotac,12.0,,
+GPU,ZOTAC GAMING GeForce RTX 5070 12GB 192BIT AMP White Edition GDDR7,250000,,Bulk_Scrape_v3,Zotac,12.0,,
+GPU,Gigabyte GeForce RTX 5070Ti 256Bit Windforce OC SFF 16GB GDDR7,305000,,Bulk_Scrape_v3,Gigabyte,16.0,,
+GPU,Zotac Gaming GeForce RTX 5070Ti 16GB 256BIT Solid SFF GDDR7,350000,,Bulk_Scrape_v3,Zotac,16.0,,
+GPU,Zotac Gaming GeForce RTX 5070Ti 16GB 256BIT Solid SFF OC GDDR7,352000,,Bulk_Scrape_v3,Zotac,16.0,,
+GPU,ZOTAC GAMING GeForce RTX 5080 16GB 256BIT SOLID CORE OC GDDR7,410000,,Bulk_Scrape_v3,Zotac,16.0,,
+GPU,MSI GeForce RTX 5090 32G GAMING TRIO OC Graphics Card,1037000,,Bulk_Scrape_v3,Msi,32.0,,
+GPU,MSI GeForce RTX 5090 32G VANGUARD SOC Graphics Card,1058000,,Bulk_Scrape_v3,Msi,32.0,,
+GPU,MSI GeForce RTX 5090 32G SUPRIM SOC Graphics Card,1082000,,Bulk_Scrape_v3,Msi,32.0,,
+Laptop,"HP 15s FD0531NIA Intel Core i3 13th Gen 4GB 256GB SSD 15.6"" FHD Display Backlit KB DOS Natural Silver",105000,,Bulk_Scrape_Fixed,Hp,,4.0,256.0
+Laptop,"HP Laptop 15-FD0532NIA Intel Core i3 13th Gen 4GB 256GB SSD 15.6"" FHD Display Dos Natural Silver",105400,,Bulk_Scrape_Fixed,Hp,,4.0,256.0
+Laptop,Lenovo V15 G4 IRU Intel Core i3 13th 8GB 256GB SSD 15.6″ FHD Display Dos Business Black (Official Warranty),105900,,Bulk_Scrape_Fixed,Lenovo,,8.0,256.0
+Laptop,"Lenovo Ideapad Slim 3 15IAN8 Intel Core i3-N305 8GB 256GB SSD 15.6"" FHD Display Win11 Home Arctic Grey",106000,,Bulk_Scrape_Fixed,Lenovo,,8.0,256.0
+Laptop,Lenovo Ideapad Slim 3 15IRU8 Intel Core i3 13th Gen 8GB 256GB SSD 15.6 FHD Dos Grey,106500,,Bulk_Scrape_Fixed,Lenovo,,8.0,256.0
+Laptop,"Lenovo Ideapad Slim 3 15IRU8 Intel Core i3 13th Gen 8GB D5 512GB SSD 15.6"" FHD Display Dos Arctic Grey",107000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,Lenovo Ideapad Slim 3 15IRU8 Intel Core i3 13th Gen 8GB 256GB SSD 15.6 FHD Dos Grey - Official Warranty,107000,,Bulk_Scrape_Fixed,Lenovo,,8.0,256.0
+Laptop,"Dell Vostro 3530 Intel Core i3 13th Gen 8GB 512GB SSD 15.6"" FHD Display Dos Black",109500,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,HP 250 G10 Intel Core i3 13th Gen 8GB 512GB SSD 15.6 FHD Dos Silver,120000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,Lenovo Ideapad 3 15ALC6 AMD Ryzen 5 5500U 8GB 512GB SSD 15.6 IPS Win10 Grey - Open Box,121000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,Lenovo Ideapad 3 15ITL6 Intel Core i5 11th Gen 8GB 512GB SSD 15.6 IPS Win10 Grey - Open Box,124000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,Lenovo Ideapad 3 AMD Ryzen 7 5700U 8GB 512GB SSD 15.6 IPS Touch Win10 Blue - Open Box,129999,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"HP 15 FC0298AU AMD Ryzen 5 7430U 8GB 512GB SSD 15.6"" FHD Display Backlit KB Silver Win11 (Official Warranty)",131000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,Lenovo Ideapad Slim 3 15IRH8 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD Dos Grey (Official Warranty),131000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkBook 16 G6 IRL Intel Core i3 13th Gen 8GB D5 512GB SSD 16"" WUXGA Display Dos Arctic Grey (Official Warranty)",133000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,Dell Vostro 3530 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD 120Hz Display Dos Black,138500,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,"Dell Inspiron 3530 Intel Core i5 13th Gen 8GB 512GB SSD 15.6"" FHD Touchscreen Display Win11 Home Carbon Black",140800,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,"HP Laptop 15-FD0336TU Intel Core i5 13th Gen 8GB 512GB SSD 15.6"" FHD Display Backlit KB Dos Natural Silver",141000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"HP 15-FD0499NIA Intel Core i5 13th Gen 8GB 512GB SSD 15.6"" FHD Display Backlit KB Dos Natural Silver",143000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"Dell Inspiron 5440 Intel Core i5 13th Gen 8GB 512GB SSD 14"" FHD Display Backlit KB Win11 Home Carbon Black",143000,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,"HP 15 DW3004NE Intel Core i5 11th Gen 8GB 256GB SSD 15.6"" FHD Display Nvidia MX350 2GB Graphics Dos Silver - Open Box",144000,,Bulk_Scrape_Fixed,Hp,,8.0,256.0
+Laptop,"HP 15 FD0647TU Intel Core i5 13th Gen 8GB 512GB SSD 15.6"" FHD Display Backlit KB Win11 Natural Silver (Official Warranty)",144000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"Lenovo IdeaPad Slim 3 15IRU9 Intel Core Ultra 5 120U 8GB 512GB SSD 15.6"" FHD Touchscreen Display Backlit KB Fingerprint Reader Win11 Home Arctic Grey",145000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"HP 15 FD0150WM Intel Core 5 120U 8GB 512GB SSD 15.6"" FHD Touchscreen Display Win11 Natural Silver",147000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,Lenovo Ideapad 3 Intel Core i7 11th Gen 8GB 1TB HDD 15.6 FHD Dos Grey,147000,,Bulk_Scrape_Fixed,Lenovo,,8.0,
+Laptop,Lenovo V15 G4 IRU Intel Core i5 13th 8GB 512GB SSD 15.6″ FHD Display Dos Business Black (Official Warranty),148500,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"ASUS ExpertBook B1503CVA-I516512G8D Intel Core i5 13th Gen 16GB D5 512GB SSD 15.6"" FHD Display Backlit KB Fingerprint Reader Dos Gentle Grey (Official Warranty)",150000,,Bulk_Scrape_Fixed,Asus,,16.0,512.0
+Laptop,Dell Inspiron 3530 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD 120Hz Dos Platinum Silver with Bag - Official Warranty,155000,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,Lenovo Ideapad L3 15ITL6 Intel Core i7 11th Gen 8GB 1TB HDD 256SSD 15.6 FHD IPS Display Dos Grey (Official Warranty),158000,,Bulk_Scrape_Fixed,Lenovo,,8.0,
+Laptop,HP Envy ES1013DX Intel Core 5 120U 8GB 512GB 14 FHD IPS Touch X360 Backlit KB FingerPrint Reader Win11 Silver,162000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,Dell Vostro 3530 Intel Core i7 13th Gen 8GB 512GB SSD 15.6 FHD Display Dos Black,165800,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,"HP OmniBook X Flip 16-BE0003DX AMD Ryzen 5 220 8GB D5 512GB SSD 16"" WUXGA IPS 2K Touchscreen x360 Display Backlit KB Win11 Meteor Silver",166000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"Dell Vostro 3530 Intel Core i7 13th Gen 16GB 512GB SSD 15.6"" FHD Display Dos Black",170000,,Bulk_Scrape_Fixed,Dell,,16.0,512.0
+Laptop,"Lenovo Ideapad Slim 3 15IRH8 Intel Core i7 13th Gen 16GB 512GB SSD 15.6"" FHD Display Backlit KB Fingerprint Reader Dos Arctic Grey",172000,,Bulk_Scrape_Fixed,Lenovo,,16.0,512.0
+Laptop,Asus Expertbook B3402FBA Intel Core i5 12th Gen 8GB 512GB SSD  14 FHD  Touch X360 Backlit KB Dos Star Black   - (Official Warranty),173000,,Bulk_Scrape_Fixed,Asus,,8.0,512.0
+Laptop,HP Probook 450 G10 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD Backlit KB FingerPrint Reader Dos Silver (Official Warranty),180000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,HP 250 G9 Intel Core i7 12th Gen 8GB 512GB SSD 15.6 FHD Backlit KB FingerPrint Reader Dos Silver with Bag - (Official Warranty),175500,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"HP 15 FD0558NIA Intel Core i7 13th Gen 8GB 512GB SSD 15.6"" FHD Display Backlit KB Dos Silver",177500,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,Lenovo V15 G4 IRU Intel Core i7 13th 16GB 1TB SSD 15.6″ FHD Display Win11 Home Business Black,178500,,Bulk_Scrape_Fixed,Lenovo,,16.0,
+Laptop,HP Probook 450 G9 Intel Core i5 12th Gen 8GB 512GB SSD 15.6 FHD Display Backlit KB Dos Silver With Bag (Official Warranty),180000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"HP 250 G10 Intel Core i7 13th Gen 8GB 512GB SSD 15.6"" FHD Display Fingerprint Reader Dos Turbo Silver",180000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"Lenovo LOQ 15IAX9E Intel Core i5 12th Gen 16GB D5 512GB SSD 15.6"" FHD IPS 144Hz Display NVIDIA RTX 2050 4GB Graphics Backlit KB DOS Luna Grey",182000,,Bulk_Scrape_Fixed,Lenovo,,16.0,512.0
+Laptop,"Lenovo IdeaPad Slim 5 14IMH9 Intel Core Ultra 5 16GB 512GB SSD 14"" WUXGA Display Backlit KB Dos Cloud Grey",189000,,Bulk_Scrape_Fixed,Lenovo,,16.0,512.0
+Laptop,"HP Probook 460 G11 Intel Core Ultra 5 125U 8GB 512GB SSD 16"" WUXGA Backlit KB FingerPrint Reader Dos Silver",190000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,Lenovo Thinkpad T16 G2 Intel Core i5 13TH Gen 8GB 256GB SSD 16″ WUXGA Display Dos Black,193000,,Bulk_Scrape_Fixed,Lenovo,,8.0,256.0
+Laptop,"HP Victus 15-FA2013DX Intel Core i5 13th Gen 8GB 512GB SSD 15.6"" FHD RTX 3050 6GB Graphics Backlit KB Win11 Silver",193500,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"MSI Thin 15 B13UC-1000US Intel Core i5 13th Gen 16GB 512GB 15.6"" FHD RTX 3050 4GB GPU Backlit KB Win11 Gray",195000,,Bulk_Scrape_Fixed,Msi,,16.0,512.0
+Laptop,"Acer Nitro Lite NL16-71G-55JR Intel Core i5 13th Gen 16GB D5 512GB SSD 16"" WUXGA IPS 165Hz Display NVIDIA GeForce RTX 3050 6GB Graphics Backlit KB Win11 Pearl White (Official Warranty)",199000,,Bulk_Scrape_Fixed,Acer,,16.0,512.0
+Laptop,"Asus Expertbook B1403CVA-S61991 Intel Core i7 13th Gen 16GB D5 1TB SSD 14.0"" FHD Backlit KB Fingerprint Reader DOS Gentle Gray (Official Warranty)",200000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,Apple MacBook Air MGN63 M1 8-Core Chip 8GB 256GB SSD 13.3 Liquid Retina IPS LED Display 7-Core GPU - Spacegrey,203000,,Bulk_Scrape_Fixed,Apple,,8.0,256.0
+Laptop,"HP OmniBook 5 Flip 14-FP0023DX Intel Core 7 150U 16GB 512GB SSD 14"" 2K Touchscreen x360 Display Backlit KB Win11 Glacier Gray",203500,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,"HP Probook 460 G11 Intel Core Ultra 5 125U 8GB 512GB SSD 16"" WUXGA Backlit KB FingerPrint Reader Dos Silver (Official Warranty)",209500,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,ASUS ExpertBook B3402FVA Intel Core i7 13th Gen 16GB 512GB 14 FHD X360 Touch Dos Black - (Official Warranty),214000,,Bulk_Scrape_Fixed,Asus,,16.0,512.0
+Laptop,"HP Probook 440 G10 Intel Core i7 13th Gen 8GB 512GB SSD 14"" FHD Display Backlit KB Dos Silver",214400,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"HP Probook 450 G10 Intel Core i7 13th Gen 16GB 512GB SSD 15.6"" FHD Display Backlit KB Fingerprint Reader Dos Silver",215000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,"Lenovo ThinkPad E14 G6 Intel Core Ultra 5 125H 8GB 512GB SSD 14"" WUXGA Display Dos Black",215000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"HP Probook 460 G11 Intel Core Ultra 7 155U 8GB 512GB SSD 16"" WUXGA Backlit KB Fingerprint Reader Dos Silver",220000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"MSI Thin 15 B13VE-1451US Intel Core i5 13th Gen 16GB 512GB SSD 15.6"" FHD 144Hz Display NVIDIA Geforce RTX 4050 6GB Graphics Backlit KB Win11 Black",218000,,Bulk_Scrape_Fixed,Msi,,16.0,512.0
+Laptop,HP Victus 15 FA2082WM Intel Core i5 13th Gen 16GB 512GB SSD 15.6 FHD IPS 144Hz Display NVIDIA RTX 4050 6GB Graphics Backlit KB Win11 Mica Silver,221000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,Lenovo Thinkpad E16 G1 Intel Core i5 13th 8GB 512GB SSD 16  FHD Backlit KB Dos Graphite Black - (Offical Warranty),222000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E16 G2 Intel Core Ultra 5 125U 8GB 512GB SSD 16"" WUXGA Backlit KB Dos Graphite Black",226500,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"Dell Inspiron 14 7440 Intel Core 7 150U 16GB 512GB SSD 14"" FHD x360 Touchscreen Display Backlit KB Fingerprint Reader Win11 Ice Blue",226800,,Bulk_Scrape_Fixed,Dell,,16.0,512.0
+Laptop,"HP Victus 15-FA2701WM Intel Core i5 13th Gen 16GB 512GB SSD 15.6"" FHD IPS 144Hz NVIDIA RTX 4050 6GB Graphics Backlit Keyboard Win11 Mica Silver",228000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,HP Envy 14 ES1023DX Intel Core 7 150U 16GB 512GB SSD 14 FHD IPS Touch X360 Backlit KB Fingerprint Reader Win11 Natural Silver,228000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,"Lenovo LOQ 15IRX9 Intel Core i5 13th Gen 12GB D5 512GB SSD 15.6"" FHD Display NVIDIA GeForce RTX 3050 6GB Graphics Backlit KB Dos Luna Grey",228500,,Bulk_Scrape_Fixed,Lenovo,,12.0,512.0
+Laptop,"HP Probook 460 G11 Intel Core Ultra 7 155U 16GB 512GB SSD 16"" WUXGA Backlit KB Fingerprint Reader Dos Silver",230000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,"HP OmniBook 5 16-AF1067ST Intel Core Ultra 7 255U 16GB D5 1TB SSD 16"" 2K Display Backlit KB Win11 Glacier Silver",235000,,Bulk_Scrape_Fixed,Hp,,16.0,
+Laptop,"Lenovo Yoga 7 2-in-1 16IML9 Intel Core Ultra 7 155U 16GB 1TB SSD 16"" WUXGA X360 Touchscreen Display Backlit KB Win11 Fingerprint Reader Storm Grey",236900,,Bulk_Scrape_Fixed,Lenovo,,16.0,
+Laptop,"Lenovo ThinkPad E16 G3 Intel Core 5 210H 8GB D5 512GB SSD 16"" WUXGA IPS Display Backlit KB Fingerprint Reader Dos Black (Official Warranty)",237000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,Lenovo LOQ 15IAX9 Intel Core i5 12th Gen 24GB 512GB SSD 15.6″ FHD Display NVIDIA RTX 4050 6GB Graphics Backlit KB Dos Luna Grey,238000,,Bulk_Scrape_Fixed,Lenovo,,,512.0
+Laptop,Lenovo ThinkPad E16 G2 Intel Core Ultra 5 125U 8GB 512GB SSD 16 WUXGA Backlit KB Dos Graphite Black (Official Warranty),238000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E16 G3 Intel Core 5 225U 8GB D5 512GB SSD 16"" WUXGA IPS Display Backlit KB Dos Black (Official Warranty)",239000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,Dell Latitude 5430 Intel Core i5 12th Gen 16GB 256GB SSD 14 FHD Backlit KB FingerPrint Reader Win11 Black,242000,,Bulk_Scrape_Fixed,Dell,,16.0,256.0
+Laptop,"HP EliteBook 640 G11 Intel Core Ultra 5 125H 8GB 512GB SSD 14"" WUXGA Display Backlit KB Dos Silver With Bag (Official Warranty)",244700,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"Dell Latitude 3550 Intel Core i7 13th Gen 8GB 512GB SSD 15.6"" FHD Display Backlit KB Fingerprint Reader Dos (Official Warranty)",245000,,Bulk_Scrape_Fixed,Dell,,8.0,512.0
+Laptop,"Lenovo ThinkPad E16 G2 Intel Core Ultra 7 155H 16GB 512GB SSD 16"" WUXGA Display Dos Black",250000,,Bulk_Scrape_Fixed,Lenovo,,16.0,512.0
+Laptop,"HP Probook 460 G11 Intel Core Ultra 7 155U 8GB 512GB SSD 16"" WUXGA Backlit KB Fingerprint Reader Dos Silver (Official Warranty)",252000,,Bulk_Scrape_Fixed,Hp,,8.0,512.0
+Laptop,"HP OmniBook X Flip 16-AS0023DX Intel Core Ultra 7 256V 16GB 1TB SSD 16"" 2K Touchscreen x360 Display Backlit KB Win11 Eclipse Gray",254000,,Bulk_Scrape_Fixed,Hp,,16.0,
+Laptop,Lenovo ThinkPad E14 G5 Intel Core i7 13th Gen 8GB 512GB SSD 14″ WUXGA Display NVIDIA MX550 2GB Graphics Dos Black,255000,,Bulk_Scrape_Fixed,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E14 G6 Intel Core Ultra 7 155H 16GB 512GB SSD 14"" WUXGA Display Dos Black",255000,,Bulk_Scrape_Fixed,Lenovo,,16.0,512.0
+Laptop,"HP OmniBook X Flip 14-FM0023DX Intel Core Ultra 7 256V 16GB 1TB SSD 14"" 2K Touchscreen x360 Backlit KB Win11 Blue",260000,,Bulk_Scrape_Fixed,Hp,,16.0,360.0
+Laptop,"HP Victus 15-FA2318TX Intel Core i7 13th Gen 16GB 512GB SSD 15.6"" FHD IPS 144Hz Display NVIDIA Geforce RTX 3050 6GB Graphics Backlit KB Dos Mica Silver",265000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,"Asus Creator Q530V Intel Core i7 13th Gen 16GB D5 512GB SSD 15.6"" FHD OLED Display NVIDIA GeForce RTX 3050 6GB Graphics Backlit KB Fingerprint Reader Win11 Home Black",282000,,Bulk_Scrape_Fixed,Asus,,16.0,512.0
+Laptop,Apple MacBook Air MC6T4 M4 10-Core Chip 16GB 256GB SSD 13.6 Liquid Retina Display 8-Core GPU - Sky Blue,290000,,Bulk_Scrape_Fixed,Apple,,16.0,256.0
+Laptop,Apple MacBook Air MW123 M4 10-Core Chip 16GB 256GB SSD 13.6 Liquid Retina Display 8-Core GPU - Midnight,290000,,Bulk_Scrape_Fixed,Apple,,16.0,256.0
+Laptop,"HP Victus 15-FA2317TX Intel Core i7 13th Gen 16GB 512GB SSD 15.6"" FHD IPS 144Hz Display NVIDIA Geforce RTX 4050 6GB Graphics Backlit KB Dos Mica Silver",295000,,Bulk_Scrape_Fixed,Hp,,16.0,512.0
+Laptop,"Acer Nitro V16 ANV16-41-R2YJ AMD Ryzen 7-8845HS 16GB D5 512GB SSD 16"" WUXGA IPS 165Hz NVIDIA RTX 4060 8GB Graphics Backlit KB Dos Black",308000,,Bulk_Scrape_Fixed,Acer,,16.0,512.0
+Laptop,"Acer Nitro 16 AN16 43 R2GJ AMD Ryzen 7 8845HS 16GB 512GB SSD 16"" WQXGA IPS 165Hz NVIDIA RTX 4060 8GB Graphics Win11 (Official Warranty)",310000,,Bulk_Scrape_Fixed,Acer,,16.0,512.0
+Laptop,"ASUS TUF Gaming F17 FX707VU-HX175 Intel Core i7 13th Gen 16GB D5 512GB SSD 17.3"" FHD 144Hz Display NVIDIA GeForce RTX 4050 6GB Graphics RGB Backlit KB Dos Mecha Gray (Official Warranty)",325000,,Bulk_Scrape_Fixed,Asus,,16.0,512.0
+Laptop,HP Victus 16-R0042 Intel Core i7 13th Gen 16GB D5 1TB SSD 16.1″ FHD IPS Display NVIDIA GeForce RTX 4060 8GB Graphics Backlit KB Dos Mica Silver,328000,,Bulk_Scrape_Fixed,Hp,,16.0,
+Laptop,"Asus Vivobook S 15 K5507QA-MA048W Snapdragon X Plus X1P 42 100 16GB D5 1TB SSD 15.6"" 3K OLED Win11 Cool Silver - (Official Warranty)",330000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,"Dell Latitude 5450 Intel Core Ultra 7 165U vPro 32GB 512GB SSD 14"" FHD Display Backlit KB Win11 Pro Grey",340000,,Bulk_Scrape_Fixed,Dell,,32.0,512.0
+Laptop,"Asus Vivobook S 14 K5406SA-PP075W Intel Core Ultra 7 256V 16GB D5 1TB SSD 14.0"" 3K OLED Backlit KB Win11 Blue - (Official Warranty)",350000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,"DELL Alienware 16 Aurora Intel Core 7 240H 16GB 512GB SSD 16"" WQXGA 120Hz Display NVIDIA GeForce RTX 5050 8GB Graphics White Backlit KB Win11 Home Interstellar Indigo",350000,,Bulk_Scrape_Fixed,Dell,,16.0,512.0
+Laptop,Asus TUF FX507VV-LP299 Intel Core i7 13th Gen 16GB 512GB SSD 15.6 FHD 144Hz 8GB RTX 4060 GPU Backlit KB Dos (Offical Warranty),356000,,Bulk_Scrape_Fixed,Asus,,16.0,512.0
+Laptop,"HP Victus 15-FA2093DX Intel Core i7 13th Gen 16GB D5 1TB SSD 15.6"" FHD IPS 144Hz Display NVIDIA RTX 5060 8GB Graphics Backlit KB Win11 Mica Silver",360000,,Bulk_Scrape_Fixed,Hp,,16.0,
+Laptop,ASUS TUF FX507VV-LP139W Intel Core i7 13th Gen 16GB 512GB 15.6 FHD 4060 8GB Graphics Win11 (Official Warranty),361000,,Bulk_Scrape_Fixed,Asus,,16.0,512.0
+Laptop,"Asus Vivobook 16 V3607VU-RP118 Intel Core 7 240H 16GB D5 1TB SSD 16.0"" WUXGA NVIDIA RTX 4050 6GB Graphics Backlit KB Dos Matte Black - (Official Warranty)",361000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,Asus Vivobook Pro15 N6506MU-MA029 Ultra 7 155H  16GB 1TB SSD 15.6 OLED Nvidia 6GB RTX 4050 GDDR6 Backlit Keyboard Dos Silver - (Offical Warranty),361000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,Asus Zenbook 13 UX5304MA-NQ040W Core Ultra 7 155U 16GB 1TB 13.3 OLED Backlit KB Win11 (Official Warranty),376000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,Dell XPS 13 9315 Intel Core i7 12th Gen 16GB 512GB 13.4 FHD Backlit FP Win11 Sky Blue,379000,,Bulk_Scrape_Fixed,Dell,,16.0,512.0
+Laptop,Asus Vivobook Pro15 N6506MV-MA022 Ultra 7-155H 16GB 1TB SSD 15.6 OLED Nvidia 8GB RTX 4060 GDDR6 Backlit KB Dos  Grey - (Offical Warranty),387000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,"Dell XPS 13 9345 Snapdragon X Elite Copilot+ PC 16GB 512GB SSD 13.4"" OLED 3K Touchscreen Display Backlit KB Fingerprint Reader Win11 Graphite",400000,,Bulk_Scrape_Fixed,Dell,,16.0,512.0
+Laptop,Apple MacBook Air Z160008FZ M2 8-Core Chip 16GB 1TB SSD 13.6 IPS Retina Display 10-Core GPU - Midnight (2023),405000,,Bulk_Scrape_Fixed,Apple,,16.0,
+Laptop,"ASUS Zenbook UX3405MA-PZ464W Intel Core Ultra 9 16GB 1TB 14"" Touch Backlit KB Win11 Blue - (Official Warranty)",407000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,"DELL Alienware 16 Aurora Intel Core 7 240H 32GB 1TB SSD 16"" WQXGA 120Hz Display NVIDIA GeForce RTX 5060 8GB Graphics White Backlit KB Win11 Home Interstellar Indigo",428000,,Bulk_Scrape_Fixed,Dell,,32.0,
+Laptop,Lenovo Legion 5 15IRX10 Intel Core i7 14th Gen 16GB 1TB 15.1″ OLED RTX 5060 8GB Graphics Backlit KB Win11 Black,430000,,Bulk_Scrape_Fixed,Lenovo,,16.0,
+Laptop,Apple MacBook Air CTO Z18U000T5 M2 8-Core Chip 16GB 1TB SSD 15 IPS Retina Display 10-Core GPU - Midnight (2023),430000,,Bulk_Scrape_Fixed,Apple,,16.0,
+Laptop,"ASUS Zenbook S 14 UX5406SA-PZ067W Intel Core Ultra 7 256V 16GB D5 1TB SSD 14.0"" 3K OLED Touch Display Backlit KB Win11 Home Scandinavian White - (Official Warranty)",437000,,Bulk_Scrape_Fixed,Asus,,16.0,
+Laptop,"HP Spectre 14-EU0097NR Intel Core Ultra 7 155H 16GB 1TB 14"" 3K OLED x360 Touch Backlit KB FPR Win11 Black",475000,,Bulk_Scrape_Fixed,Hp,,16.0,
+Laptop,"Asus Zenbook 16 UM5606WA-RJ263W Ryzen AI 9 HX 370 32GB D5 2TB SSD 16.0"" 3K OLED Touchscreen Backlit KB Win11 Scandinavian White (Official Warranty)",487000,,Bulk_Scrape_Fixed,Asus,,32.0,
+Laptop,ASUS TUF FA401WU-RG047W Ryzen AI 9 HX370 32GB 1TB 14 WUXGA RTX 4050 6GB Win11 (Official Warranty),507000,,Bulk_Scrape_Fixed,Asus,,32.0,
+Laptop,HP Omen 16-AN0119NR Intel Core Ultra 9 16GB 1TB SSD 16 WQXGA Display RTX 5070 8GB Backlit KB Win11 Black,540000,,Bulk_Scrape_Fixed,Hp,,16.0,
+Laptop,Lenovo Yoga Pro 9 Ultra 7 155H 16GB 1TB 16 3.2K 165Hz RTX 4050 6GB Backlit KB Win11 Luna Grey (Official Warranty),575000,,Bulk_Scrape_Fixed,Lenovo,,16.0,
+Laptop,"Acer Predator Helios Neo 16 AI PHN16-73-934N Intel Core Ultra 9 32GB 1TB 16"" 5070Ti 12GB Win11 Gaming - Laptops",630000,,Bulk_Scrape_Fixed,Acer,,32.0,
+Laptop,"Acer Predator Helios Neo 16S AI PHN16S-71-99SA Intel Core Ultra 9 32GB D5 1TB SSD 16"" OLED WQXGA 240Hz Display NVIDIA RTX 5070Ti 12GB Graphics RGB Backlit KB Win11 Home Black (Official Warranty)",645000,,Bulk_Scrape_Fixed,Acer,,32.0,
+Laptop,Lenovo Legion Pro 5 Gen 10 Intel Core Ultra 9 275HX 32GB 2TB SSD 16″ WQXGA OLED Display NVIDIA GeForce RTX 5070Ti 12GB Graphics RGB Backlit KB Window 11 Home Eclipse Black,730000,,Bulk_Scrape_Fixed,Lenovo,,32.0,
+Laptop,"Acer Predator Helios 18 AI PH18-73-96Y0 Intel Core Ultra 9 32GB D5 1TB SSD 18"" WQXGA IPS Mini LED 250Hz Display NVIDIA RTX 5080 16GB Graphics Backlit KB Win11 Home Black (Official Warranty)",910000,,Bulk_Scrape_Fixed,Acer,,32.0,
+Laptop,Lenovo Legion Pro 7 16IAX10H Ultra 9 64GB 1TB 16″ RTX 5080 16GB Win11 Gaming - Laptops,1025000,,Bulk_Scrape_Fixed,Lenovo,,64.0,
+Laptop,"Asus ROG Strix G815LW-G18.U95080 Intel Core Ultra 9 32GB 2TB SSD 18"" WQXGA Display NVIDIA GeForce RTX 5080 16GB Graphics Backlit KB Win11 Eclipse Black Gaming - Laptops",1125000,,Bulk_Scrape_Fixed,Asus,,32.0,
+Laptop,Apple MacBook Pro Z174001X7 M2 Max 12-Core Chip 96GB 2TB SSD 16 Liquid Retina XDR Display 38-Core GPU - Space Grey (2023),1270000,,Bulk_Scrape_Fixed,Apple,,,96.0
+Laptop,"Acer Predator Helios 18 AI PH18-73-99HE Intel Core Ultra 9 96GB D5 2TB SSD 18"" WQUXGA 4K 120Hz Display NVIDIA RTX 5090 24GB Graphics Backlit KB Win11 Black (Official Warranty)",1299000,,Bulk_Scrape_Fixed,Acer,,,96.0
+Laptop,"Asus ROG Strix SCAR 18 G835LX-XS97 Intel Core Ultra 9 32GB 2TB SSD 18"" WQXGA Display NVIDIA GeForce RTX 5090 24GB Graphics Backlight KB Win11 Black Gaming - Laptops",1530000,,Bulk_Scrape_Fixed,Asus,,32.0,
+GPU,"Acer Predator Helios 18 AI PH18-73-96CY Ultra 9 64GB 1TB 18"" WQXGA NVIDIA RTX 5080 16GB Graphics Backlit KB Win11 Home (Official Warranty)",955000,,Search_Gap_Filler,Other,16.0,,
+Laptop,"Lenovo IdeaPad Slim 3i 15IRU8 Laptop, Intel Core i3-1315U, 15.6 Inch FHD, 8GB LPDDR5, 256GB SSD, WiFi 6, Arctic Grey",82700,,Manual,Lenovo,,8.0,256.0
+Laptop,"Dell Vostro 15 3530 Laptop | Intel Core i3- 1305U 8GB DDR4 512GB SSD Intel Graphics 15.6"" FHD 120Hz Display | Carbon Black",1515313,,Manual,Dell,,8.0,512.0
+Laptop,Laptops,97500,,Manual,Other,,,
+Laptop,"HP 15-FD0532NIA Laptop, Intel Core i3-1315U 4GB DDR4 256GB SSD Backlit KB 15.6"" FHD Display | Silver",103900,,Manual,Hp,,4.0,256.0
+Laptop,"Lenovo V15 G4 IRU Laptop | Intel Core i3-1315U 8GB Memory 256GB SSD WiFi 6 15.6"" FHD | Business Black (Official Warranty)",105000,,Manual,Lenovo,,8.0,256.0
+Laptop,"Lenovo IdeaPad Slim 3 15IRU8 Laptop | Intel® Core™ i3-1315U 8GB 256GB 15.6"" FHD | Arctic Grey (Official Warranty)",106990,,Manual,Lenovo,,8.0,256.0
+Laptop,"Dell Vostro 15 3530 Laptop | Intel Core i3- 1305U 8GB DDR4 512GB SSD Intel Graphics 15.6"" FHD 120Hz Display | Carbon Black",110900,,Manual,Dell,,8.0,512.0
+Laptop,"Dell Latitude 3340 2-in-1 Touchscreen Laptop Intel Core i5-1335U, 8GB DDR5, 256GB SSD, Intel Iris Xe Graphics, 13.3 Inch FHD Touchscreen, Windows 11 Home, New - Without Box",129990,,Manual,Dell,,8.0,256.0
+Laptop,"Lenovo IdeaPad Slim 3 15IRH8 Laptop - Intel Core i5-13420H 8GB DDR5 512GB SSD 15.6"" FHD IPS Display | 83EM003RPS - Arctic Grey (Official Warranty)",132000,,Manual,Lenovo,,8.0,512.0
+GPU,"PNY NVIDIA GeForce RTX 5050 Dual Fan Graphics Card, 8GB GDDR6, 2572MHz Boost, PCIe 5.0, HDMI/DP 2.1b, VCG50508DFXPB1",88500,,Czone,Pny,8.0,,
+GPU,"ZOTAC Gaming GeForce RTX 5050 Twin Edge Graphics Card, 8GB GDDR6, 128-Bit, PCI Express 5.0 x8, ZT-B50500E-10M",89990,,Czone,Zotac,8.0,,
+GPU,"Gigabyte GeForce RTX 5050 OC Low Profile 8G Graphics Card, 8GB GDDR6, 128-Bit, Boost 2587MHz, PCIe 5.0, DLSS 4, Model GV-N5050OC-8GL",89990,,Czone,Gigabyte,8.0,,
+GPU,"ASRock Intel Arc B580 Challenger Graphics Card, 2740MHz GPU Clock, 12GB GDDR6, DisplayPort 2.1, HDMI 2.1a, Dual Fan Cooling",95000,,Czone,Other,12.0,,
+GPU,"ASRock Radeon RX 9060 XT Steel Legend, Graphics Card, 3320MHz Boost, 8GB GDDR6, PCIe 5.0, DisplayPort 2.1a, HDMI 2.1b, White",105000,,Czone,Other,8.0,,
+GPU,"PNY GeForce RTX 5060 8GB Dual Fan GPU, 2497MHz Boost Clock, 448GB/s Bandwidth, 128-bit, DLSS 4, Reflex, Ray Tracing, DisplayPort 2.1b x3, HDMI 2.1b, Dual-Slot, VCG50608DFXPB1",107000,,Czone,Pny,8.0,,
+GPU,"ZOTAC GAMING GeForce RTX 5060 Twin Edge Graphics Card, 3840 CUDA Cores, 2497MHz Boost, 8GB GDDR7, 128-bit, PCIe 5.0 x8, 3x DisplayPort 2.1b, HDMI 2.1b, ZT-B50600E-10M",109000,,Czone,Zotac,8.0,,
+GPU,"INNO3D GEFORCE RTX 5060 TI 8GB TWIN X2 Video Graphics Card N506T2-08D7-193075N 8GB GDDR7 128-bit, SFF Ready, DLSS 4",131990,,Czone,Other,8.0,,
+GPU,"MSI GeForce RTX 5060 Ti 8G Gaming Trio OC Graphics Card, 8GB GDDR6, 2647MHz Boost, TRI FROZR 4 Cooling, Metal Backplate",145000,,Czone,Msi,8.0,,
+GPU,"PNY NVIDIA GeForce RTX 5060Ti 16GB Overclocked Dual Fan OC Graphics Card, DLSS 4, PCIe 5.0, HDMI/DP 2.1, 2-Slot",152000,,Czone,Pny,16.0,,
+GPU,ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge Graphics Card | 4608 CUDA Cores | 2572 MHz | 128-bit GDDR7 | PCIe 5.0 x8 | IceStorm 2.0 Cooling,161990,,Czone,Zotac,16.0,,
+GPU,"MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS Graphics Card, 2617MHz Extreme, 2602MHz Boost, 16GB GDDR7, PCIe Gen5, 128-bit, DisplayPort x3, HDMI x1",177990,,Czone,Msi,16.0,,
+GPU,"MSI GeForce RTX 5060 Ti 16G GAMING TRIO OC Graphics Card, 2662MHz Extreme, 2647MHz Boost, 16GB GDDR7, PCIe Gen5, 128-bit, DisplayPort x3, HDMI x1",184990,,Czone,Msi,16.0,,
+GPU,"PNY NVIDIA GeForce RTX 5070 Epic-X ARGB OC Graphics Card, 12GB GDDR7, 192-Bit, Boost 2685MHz, PCIe 5.0, HDMI/DP 2.1, SFF-Ready, Model VCG507012TFXXPB1-O",197990,,Czone,Pny,12.0,,
+GPU,"MSI GeForce RTX 5060 Ti 16G VANGUARD SOC Graphics Card, 16GB GDDR7, Boost 2692MHz, PCIe Gen5 x16, HDMI 2.1b, DisplayPort 2.1b",199990,,Czone,Msi,16.0,,
+GPU,"ASUS Prime GeForce RTX 5070 Graphics Card, 12GB GDDR7, PCIe 5.0, HDMI and DisplayPort 2.1, 2.5-Slot",234000,,Czone,Asus,12.0,,
+GPU,"ASRock Steel Legend RX 9070 XT 16G Graphics Card, AMD Radeon RX9070XT, Boost Clock Up To 2970MHz, Game Clock 2400MHz, 16GB GDDR6 256-Bit, PCI Express 5.0",245000,,Czone,Other,16.0,,
+GPU,"PNY NVIDIA GeForce RTX 5070 Ti Overclocked Triple Fan Graphics Card, 16GB GDDR6, PCIe 5.0, HDMI DP 2.1, 2.9-Slot, DLSS 4",275000,,Czone,Pny,16.0,,
+GPU,"ASUS Prime Radeon RX 9070 XT OC Edition Graphics Card, 16GB GDDR6, PCIe 5.0, HDMI and DisplayPort 2.1, 2.5-Slot",278000,,Czone,Asus,16.0,,
+GPU,ZOTAC GAMING GeForce RTX 5070 Ti SOLID SFF OC 16GB GDDR7 256-bit Video Graphics Card ZT-B50710J3-10P,304990,,Czone,Zotac,16.0,,
+GPU,"ZOTAC GAMING GeForce RTX 5070 Ti SOLID CORE OC White Edition Video Graphics Card, ZT-B50710Q2-10P, 16GB GDDR7",319000,,Czone,Zotac,16.0,,
+GPU,"PNY NVIDIA GeForce RTX 5080 ARGB Overclocked Triple Fan Graphics Card, 16GB GDDR6, PCIe 5.0, HDMI DP 2.1, 2.9-Slot, Epic-X RGB, DLSS 4",385000,,Czone,Pny,16.0,,
+GPU,"MSI GeForce RTX 5080 16G SHADOW 3X OC Video Graphics Card | G5080-16S3C, 16GB GDDR7 256-bit",395000,,Czone,Msi,16.0,,
+GPU,"MSI GeForce RTX 5080 16G VENTUS 3X OC PLUS Graphics Card, 2655MHz Extreme, 2640MHz Boost, 16GB GDDR7, PCIe Gen5, 256-bit, DisplayPort x3, HDMI x1",399990,,Czone,Msi,16.0,,
+GPU,"ZOTAC GAMING GeForce RTX 5080 SOLID CORE OC Graphics Card ZT-B50800J2-10P, 16GB GDDR7, 256-bit, PCIe 5.0, 2640 MHz, 30 Gbps, 3x DisplayPort 2.1b, HDMI 2.1b, 2.5 Slot",406900,,Czone,Zotac,16.0,,
+GPU,"MSI GeForce RTX 5080 16G INSPIRE 3X OC Graphics Card, 2655MHz Extreme, 2640MHz Boost, 16GB GDDR7, PCIe Gen5, 256-bit, DisplayPort x3, HDMI x1",409990,,Czone,Msi,16.0,,
+GPU,ZOTAC GAMING GeForce RTX 5080 AMP Extreme INFINITY ULTRA 16GB GDDR7 Graphics Card,435000,,Czone,Zotac,16.0,,
+GPU,"ZOTAC GAMING GeForce RTX 5090 SOLID OC Graphics Card, 32GB GDDR7, 512-bit, 2422MHz, PCIe 5.0, 3.5-Slot",875000,,Czone,Zotac,32.0,,
+GPU,MSI GeForce RTX 5090 32G VANGUARD SOC 32GB GDDR7 512bit Video Graphics Card,975000,,Czone,Msi,32.0,,
+GPU,MSI GeForce RTX 5090 32G GAMING TRIO OC 32GB GDDR7 512-bit Video Graphics Card,975000,,Czone,Msi,32.0,,
+Laptop,"ASUS Vivobook 15 A1504 Laptop Intel Core i5-1335U, 8GB, 512GB SSD, 15.6 Inch FHD, Backlit Keyboard, Fingerprint, Cool Silver",136900,,Czone,Asus,,8.0,512.0
+Laptop,"Lenovo IdeaPad Slim 3 15ABR8 Laptop | AMD Ryzen 7 7730U 8C 16T, 8GB 512GB SSD 15.6"" FHD IPS | 82XM00ARPS | Official Warranty",138990,,Czone,Lenovo,,8.0,512.0
+Laptop,"Dell Vostro 15 3530 Laptop Intel Core i5-1334U 8GB 512GB 15.6"" FHD 120Hz Display",139000,,Czone,Dell,,8.0,512.0
+Laptop,"Dell Inspiron 3530 Touchscreen Laptop, 13th Gen Core i5-1334U, 8GB RAM, 512GB SSD, 15.6"" FHD Touchscreen, Windows 11 Home, Carbon Black",140900,,Czone,Dell,,8.0,512.0
+Laptop,"Dell Inspiron 14 Laptop 5440, Intel Core i5-1334U, 8GB RAM, 512GB NVMe SSD, Backlit Keyboard, 14 Inch FHD+, Windows 11 Home, Carbon Black",143000,,Czone,Dell,,8.0,512.0
+Laptop,"HP 15-FD0647TU Laptop, 13th Gen Intel Core i5-1334U, 8GB DDR4, 512GB SSD, 15.6"" FHD, Iris Xe, Backlit Keyboard, Windows 11, Natural Silver (Official Warranty)",143900,,Czone,Hp,,8.0,512.0
+Laptop,"HP Laptop 15-FD0499NIA | Intel® Core™ i5-1334U 8GB DDR4 512GB SSD Intel Iris Xe Graphics Backlit KB WiFi 6E 15.6"" FHD Display",144900,,Czone,Hp,,8.0,512.0
+Laptop,"HP 15-FD0355NIA Laptop 9Q341EA Intel Core i5-1334U 8GB 512GB Intel Iris Xe Graphics Backlit KB 15.6"" FHD Display",149900,,Czone,Hp,,8.0,512.0
+Laptop,"HP 15-FD0150WM Laptop | Intel Core 5 120U | 8GB RAM | 512GB SSD | 15.6"" FHD Touchscreen | Windows 11 | Silver",150000,,Czone,Hp,,8.0,512.0
+Laptop,"Dell 16 Laptop DC16250 Laptop, Intel Core 5 120U, 8GB DDR5, 512GB SSD, 16"" FHD+ Touch, Backlit Keyboard, Windows 11 Home, Silver",154500,,Czone,Dell,,8.0,512.0
+Laptop,"HP Laptop 15-FD1311TU Laptop, Intel Core Ultra 5 125H, 8GB DDR5, 512GB SSD, 15.6"" FHD, Intel Arc Graphics, Backlit Keyboard, Silver",159800,,Czone,Hp,,8.0,512.0
+Laptop,"Dell Vostro 15 3530 Laptop Intel Core i7-1355U 8GB DDR4 512GB SSD 15.6"" FHD 120Hz Display Carbon black",165900,,Czone,Dell,,8.0,512.0
+Laptop,"Lenovo IdeaPad Slim 3 15IRH8 Laptop | Intel Core i7-13620H 16GB DDR5 512GB SSD 15.6"" FHD IPS Display",166900,,Czone,Lenovo,,16.0,512.0
+Laptop,"HP 15-FD0557NIA Laptop 13th Gen Core i7-1355U, 8GB RAM, 512GB SSD, 15.6 FHD, Intel Iris Xe, Backlit KB, Natural Silver",176000,,Czone,Hp,,8.0,512.0
+Laptop,"Lenovo LOQ Essential 15 Gaming Laptop, Intel Core i5-12450HX, 16GB DDR5 4800MHz, 512GB PCIe 4.0 SSD, NVIDIA GeForce RTX 2050 4GB, 15.6"" FHD IPS 144Hz, Luna Grey, 83LK005GUE",181990,,Czone,Lenovo,,16.0,512.0
+Laptop,"HP 250 G10 Notebook PC BJ2X3UA, 15.6 Inch FHD, Intel Core i7-1355U Up To 5.0GHz, 16GB DDR4, 512GB SSD, Intel Iris Xe Graphics, WiFi 6, Bluetooth 5.3",182000,,Czone,Hp,,16.0,512.0
+Laptop,"HP ProBook 460 G11 Notebook PC A38FBET | Intel Core Ultra 5 Processor 125U, 8GB DDR5, 512GB SSD, Backlit KB, Fingerprint Reader, 16"" WUXGA IPS Display",189000,,Czone,Hp,,8.0,512.0
+Laptop,"HP ProBook 460 G11 Notebook PC, Intel Core Ultra 5 125U, 8GB DDR5, 512GB SSD, 16"" WUXGA IPS Display, Backlit Keyboard, FreeDOS",190000,,Czone,Hp,,8.0,512.0
+Laptop,"HP Victus Gaming Laptop 15-FA2013DX | Intel Core i5-13420H | 8GB DDR4 | 512GB SSD | NVIDIA GeForce RTX 3050 6GB | 15.6"" FHD IPS 144Hz | Mica Silver",190000,,Czone,Hp,,8.0,512.0
+Laptop,"Lenovo ThinkBook 16 Gen 8 Laptop, Intel Core 5 210H, 16"" WUXGA IPS, 8GB DDR5, 512GB SSD, Integrated Intel Graphics, Backlit Keyboard, Fingerprint Reader, Arctic Grey, 21SH0036GQ (Official Warranty)",190900,,Czone,Lenovo,,8.0,512.0
+Laptop,"HP 15-FD1310TU Laptop, Intel Core Ultra 7 155H, 8GB RAM, 512GB SSD, 15.6"" FHD Display, Intel Arc Graphics, Backlit Keyboard, Silver",194800,,Czone,Hp,,8.0,512.0
+Laptop,"MSI Thin 15 B13UC-1000US Gaming Laptop | Intel Core i5-13420H 16GB 512GB NVIDIA Geforce RTX 3050 4GB Windows 11 15.6"" FHD 144Hz",194900,,Czone,Msi,,16.0,512.0
+Laptop,"Dell Inspiron 5640 Laptop, Intel Core 7 150U, 16GB DDR5, 512GB SSD, 16 Inch FHD+ Display, Intel Integrated Graphics, Backlit Keyboard, Windows 11, Ice Blue",194990,,Czone,Dell,,16.0,512.0
+Laptop,Lenovo Thinkpad T16 Gen 2 Business Laptop | Core i5-1335U 8GB DDR4 256GB SSD WiFi 6E - DOS | 21HJS7DL00,195000,,Czone,Lenovo,,8.0,256.0
+Laptop,"Acer Nitro Lite NL16-71G-55JR Gaming Laptop, Intel Core i5-13420H, 16GB DDR5 4800MHz, 512GB PCIe NVMe 4.0 SSD, NVIDIA GeForce RTX 3050 6GB, 16"" WUXGA IPS 165Hz, Windows 11 Home, White (Official Warranty)",199000,,Czone,Acer,,16.0,512.0
+Laptop,"Apple MacBook Air 13.3"" MGN63 Space Gray, M1 8-Core 8GB 256GB SSD",202900,,Czone,Apple,,8.0,256.0
+Laptop,"HP Omnibook X Flip 16-AS0013DX Laptop, Intel Core Ultra 5 226V, 16GB DDR5, 512GB SSD, Intel Arc 130V 8GB Graphics, 16"" 2K x360 Touchscreen, Windows 11 Home, Eclipse",204900,,Czone,Hp,,16.0,512.0
+Laptop,"ASUS ExpertBook B3402FVA Laptop, Intel Core i7-1355U Up To 5.0GHz, 16GB DDR4, 512GB SSD, 14 Inch FHD X360 Touch, Intel Iris Xe Graphics, Fingerprint Reader, Star Black (Official Warranty)",214000,,Czone,Asus,,16.0,512.0
+Laptop,"Lenovo ThinkPad E14 G6 Intel Laptop Ultra 5 125H, 8GB DDR5-5600, 512GB SSD, 14 Inch WUXGA Display, Intel Arc Graphics, Black",214990,,Czone,Lenovo,,8.0,512.0
+Laptop,"MSI Thin 15 Gaming Laptop, 15.6"" FHD 144Hz, Intel Core i5-13420H, RTX 4050 6GB GDDR6, 16GB DDR4, 512GB SSD, Backlit Keyboard, Windows 11 Home, Cosmos Gray B13VE3023US",217000,,Czone,Msi,,16.0,512.0
+Laptop,"HP Victus 15 FA2082WM Gaming Laptop Intel Core i5-13420H, 16GB DDR4, 512GB SSD, RTX 4050 6GB, 15.6 Inch FHD 144Hz IPS, Backlit Keyboard, Windows 11, Mica Silver",218900,,Czone,Hp,,16.0,512.0
+Laptop,HP Victus Gaming Laptop 15-FB3093DX | AMD Ryzen 7 7445H 16GB DDR5 512GB SSD NVIDIA GeForce RTX 4050 6GB GDDR6 Windows 11 Home,219900,,Czone,Hp,,16.0,512.0
+Laptop,"Dell Inspiron 14 7440 2-in-1 Touchscreen Laptop | Intel Core 7 Processor 150U 16GB DDR5 512GB SSD Fingerprint Reader Backlit KB Windows 11 14"" FHD+ Touchscreen | Ice Blue",226900,,Czone,Dell,,16.0,512.0
+Laptop,"Lenovo ThinkBook 14 G7 Intel Core Ultra 7 155H, 16GB DDR5, 512GB SSD, 14"" WUXGA IPS, Intel Arc Graphics, Backlit Keyboard, Fingerprint Reader, Arctic Grey (Official Warranty)",228990,,Czone,Lenovo,,16.0,512.0
+GPU,"₨350,000.00-₨700,000.00",350000,,ZahComputers,Other,,,
+GPU,"₨700,000.00-₨1,050,000.00",700000,,ZahComputers,Other,,,
+GPU,INNO3D GeForce RTX 5060 Twin X2 8GB GDDR7 Gaming Graphics Card,106000,,ZahComputers,Other,8.0,,
+GPU,PNY NVIDIA GeForce RTX 5070 Ti OC 16GB GDDR7 Graphics Card,275000,,ZahComputers,Pny,16.0,,
+GPU,GIGABYTE Radeon RX 9060 XT GAMING OC 16G PCIe 5.0 GDDR6 Graphics Card,149000,,ZahComputers,Gigabyte,16.0,,
+GPU,"XFX Quicksilver AMD Radeon RX 9070 OC Gaming Edition Graphics Card with 16GB GDDR6 HDMI 3xDP, AMD RDNA 4",240000,,ZahComputers,Other,16.0,,
+GPU,Asus ROG Astral GeForce RTX 5090 32GB GDDR7 WHITE OC Edition Graphics Card,1299000,,ZahComputers,Asus,32.0,,
+GPU,ZOTAC Twin Edge OC GeForce RTX 5050 8GB GDDR6 PCI Express 5.0 x8 ATX Graphics Card,93000,,ZahComputers,Zotac,8.0,,
+GPU,"ZOTAC GAMING GeForce RTX 5080 SOLID OC Graphics Card, 16GB GDDR7 256-Bit Memory, 2640MHz Engine Clock, 30 Gbps Memory Clock, 10752 CUDA Cores, PCI Express 5.0 x16, White",430000,,ZahComputers,Zotac,16.0,,
+GPU,Sapphire Pulse AMD Radeon RX 9060 XT Gaming OC 16GB GDDR6 Graphics Card,140000,,ZahComputers,Sapphire,16.0,,
+GPU,GIGABYTE AORUS GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 ATX Graphics Card,1180000,,ZahComputers,Gigabyte,32.0,,
+GPU,GIGABYTE Gaming GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 ATX Graphics Card,985000,,ZahComputers,Gigabyte,32.0,,
+GPU,ASUS Dual Radeon RX 9060 XT 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,170000,,ZahComputers,Asus,16.0,,
+GPU,Sapphire Pure Radeon RX 9070 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,220000,,ZahComputers,Sapphire,16.0,,
+GPU,Sapphire Nitro+ AMD Radeon RX 9060 XT OC 16GB Gaming Graphics Card,155000,,ZahComputers,Sapphire,16.0,,
+GPU,ASUS TUF Gaming Radeon RX 9070 XT OC Edition 16GB GDDR6 Gaming Graphics Card,305000,,ZahComputers,Asus,16.0,,
+GPU,ASUS Prime Radeon RX 9070 16GB GDDR6 OC Edition Graphics Card,245000,,ZahComputers,Asus,16.0,,
+GPU,ASUS TUF Gaming Radeon RX 9060 XT 16GB GDDR6 OC Edition Graphics Card,190000,,ZahComputers,Asus,16.0,,
+GPU,Asus Tuf Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Gaming Graphics Card,475000,,ZahComputers,Asus,16.0,,
+GPU,Asus Prime RTX 5080 OC Edition 16GB GDDR7 Graphics Card,450000,,ZahComputers,Asus,16.0,,
+GPU,ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Graphics Card,240000,,ZahComputers,Asus,12.0,,
+GPU,ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 OC Edition Gaming Graphics Card,195000,,ZahComputers,Asus,16.0,,
+GPU,ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 PCI Express 5.0 x8 ATX Graphics Card,165000,,ZahComputers,Asus,8.0,,
+GPU,Asus Dual GeForce RTX 5060 8GB White GDDR7 OC Edition Graphics Card,128000,,ZahComputers,Asus,8.0,,
+GPU,Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition Graphics Card,125000,,ZahComputers,Asus,8.0,,
+GPU,ASUS Dual GeForce RTX 5050 8GB GDDR6 PCI Express 5.0 x8 ATX Graphics Card,105000,,ZahComputers,Asus,8.0,,
+GPU,MSI GeForce RTX 2070 VENTUS GP GDDR6 PCI Express 3.0 x16 Graphics Card Used,70000,,ZahComputers,Msi,,,
+GPU,MSI Gaming GeForce RTX 5080 16G GAMING TRIO OC GDDR7 PCI Express 5.0 Graphics Card,470000,,ZahComputers,Msi,16.0,,
+GPU,MSI Ventus GeForce RTX 4060 Ti 8GB 2X OC GDDR6 PCI Express 4.0 x8 ATX Graphics Cards,126000,,ZahComputers,Msi,8.0,,
+GPU,ASUS TUF Gaming GeForce RTX 5070 12GB Video RAM GDDR7 VRAM Type 6144 Cuda Cores 28GBps Memory Speed Graphic Card,235000,,ZahComputers,Asus,12.0,,
+GPU,ZOTAC  GAMING GeForce Twin Edge OC White Edition GeForce RTX 5060 Ti 16GB GDDR7 PCI Express 5.0 x8 ATX Graphics Card,170000,,ZahComputers,Zotac,16.0,,
+GPU,MSI GeForce RTX 5050 VENTUS 2X OC GDDR6  PCIe 5.0 x16 Interface Graphics Card,105000,,ZahComputers,Msi,,,
+GPU,"EVGA GeForce RTX 2060 SC Ultra GAMING, 06G-P4-2067-KR, 6GB GDDR6, Dual HDB Fan (Used)",57000,,ZahComputers,Other,6.0,,
+GPU,XFX Swift AMD Radeon RX 9070 OC Triple Fan Gaming Edition 16GB GDDR6 256-Bit Memory Graphics Card,230000,,ZahComputers,Other,16.0,,
+GPU,ASUS PRIME Radeon RX 9070 XT 16GB 256-Bit GDDR6 PCI Express 5.0 RDNA 4 Graphics Card,280000,,ZahComputers,Asus,16.0,,
+GPU,ASUS PRIME GeForce RTX 5060 Ti 16GB 128-Bit GDDR7 PCI Express 5.0 x8 DLSS 4.0 Graphics Card,190000,,ZahComputers,Asus,16.0,,
+GPU,ASUS PRIME GeForce RTX 5060 Ti 8GB 128-Bit GDDR7 PCI Express 5.0 x8 DLSS 4.0 Graphics Card,165000,,ZahComputers,Asus,8.0,,
+GPU,GIGABYTE GeForce RTX 4060 Ti GAMING OC 8G GDDR6  PCIe 4.0 Interface Graphics Card,130000,,ZahComputers,Gigabyte,8.0,,
+GPU,MSI SHADOW GeForce RTX 5060 Ti 8GB 2X OC PLUS GDDR7 PCI Express 5.0 Graphics Card,155000,,ZahComputers,Msi,8.0,,
+GPU,MSI GeForce RTX 5090 SUPRIM LIQUID SOC 32Gb GDDR7 PCIe 5.0 x16 Graphics Card,1150000,,ZahComputers,Msi,32.0,,
+GPU,MSI GeForce RTX 5090 VENTUS 3X OC 32Gb GDDR7 PCIe 5.0 x16 Graphics Card,950000,,ZahComputers,Msi,32.0,,
+GPU,MSI INSPIRE GeForce RTX 5080 INSPIRE 3X OC 16GB GDDR7 PCIe 5.0 x16 Graphics Card,435000,,ZahComputers,Msi,16.0,,
+GPU,MSI GeForce RTX 5080 VENTUS 3X OC PLUS OC 16GB GDDR7 PCIe 5.0 x16 Graphics Card,425000,,ZahComputers,Msi,16.0,,
+GPU,MSI VENTUS GeForce RTX 5080 3X OC 16GB GDDR7 PCIe 5.0 x16 Graphics Card,425000,,ZahComputers,Msi,16.0,,
+GPU,MSI SHADOW GeForce RTX 5070 12GB 3X OC GDDR7 PCIe PCIe 5.0 x16 Graphics Card,220000,,ZahComputers,Msi,12.0,,
+GPU,MSI SHADOW GeForce RTX 5070 12GB 2X OC GDDR7  PCIe 5.0 x16 Graphics Card,210000,,ZahComputers,Msi,12.0,,
+GPU,MSI GeForce RTX 5060 Ti 16G VANGUARD SOC GDDR7 PCIe 5.0 x16 Graphics Card,200000,,ZahComputers,Msi,16.0,,
+GPU,MSI VENTUS GeForce RTX 5060 Ti 16GB 2X OC PLUS GDDR7 PCIe 5.0 x16 Graphics Card,178000,,ZahComputers,Msi,16.0,,
+GPU,MSI GeForce GT 1030 AERO ITX 4GB DDR4 OC – Graphics Card,21000,,ZahComputers,Msi,4.0,,
+GPU,GIGABYTE GeForce RTX 5070 Ti EAGLE OC ICE SFF 16GB GDDR7 PCI Express 5.0 ATX  Graphics Card,335000,,ZahComputers,Gigabyte,16.0,,
+GPU,INNO3D GeForce RTX™ 3060 TWIN X2 12GB GDDR6 192-bit Graphic Card,94000,,ZahComputers,Other,12.0,,
+GPU,COLORFUL iGame GeForce RTX 5080 Vulcan W OC 16GB-V 16GB Gaming Graphics Card,470000,,ZahComputers,Colorful,16.0,,
+GPU,COLORFUL GeForce RTX 5060 Ti Battle AX Duo 16GB-V 16GB Gaming Graphics Card,165000,,ZahComputers,Colorful,16.0,,
+GPU,COLORFUL GeForce RTX 5060 Ti Battle AX Duo 8GB-V 8GB Gaming Graphics Card,145000,,ZahComputers,Colorful,8.0,,
+GPU,COLORFUL iGame GeForce RTX 5060 Ultra W Duo OC 8GB-V 8GB Gaming Graphics Card,117000,,ZahComputers,Colorful,8.0,,
+GPU,COLORFUL GeForce RTX 5060 Battle AX Duo 8GB-V 8GB Gaming Graphics Card,113000,,ZahComputers,Colorful,8.0,,
+GPU,COLORFUL GeForce RTX 5050 Battle AX Duo 8GB-V 8GB Gaming Graphics Card,96999,,ZahComputers,Colorful,8.0,,
+GPU,MSI VENTUS  GeForce RTX 5060 Ti 8G 2X OC PLUS GDDR7 PCIe 5.0 x16 Graphics Card,157000,,ZahComputers,Msi,8.0,,
+GPU,ASUS PRIME GeForce RTX 5070 OC 12GB 192-Bit GDDR7 PCI Express 5.0 DLSS 4.0 Graphics Card,245000,,ZahComputers,Asus,12.0,,
+GPU,ZOTAC Twin Edge GeForce RTX 5060 Ti PCI Express 5.0 x8 16GB 128-Bit GDDR7 Graphics Card,168000,,ZahComputers,Zotac,16.0,,
+GPU,Asus ROG Herculx XH01 Graphics Card Holder White,15000,,ZahComputers,Asus,,,
+GPU,MSI GeForce RTX 5070 VENTUS 3X OC 12GB Graphics Card,240000,,ZahComputers,Msi,12.0,,
+GPU,MSI GeForce RTX 5090 SUPRIM 32GB SOC GDDR7 PCIe 5.0 x16 Graphics Card,1095000,,ZahComputers,Msi,32.0,,
+GPU,MSI GeForce RTX 5090 VANGUARD 32GB SOC GDDR7 PCIe 5.0 x16 Graphics Card,1075000,,ZahComputers,Msi,32.0,,
+GPU,MSI GeForce RTX 5090 GAMING TRIO 32GB  OC GDDR7 PCIe 5.0 x16 Graphics Card,1050000,,ZahComputers,Msi,32.0,,
+GPU,MSI VENTUS GeForce RTX 5070 Ti 16GB 3X OC GDDR7 PCIe 5.0 x16 Graphics Card,315000,,ZahComputers,Msi,16.0,,
+GPU,MSI SHADOW GeForce RTX 5070 Ti 16GB 3X OC GDDR7 PCI Express 5.0 Graphics Card,310000,,ZahComputers,Msi,16.0,,
+GPU,MSI VENTUS GeForce RTX 5070 12G 2X OC GDDR7 Graphics Card,210000,,ZahComputers,Msi,12.0,,
+GPU,MSI VENTUS GeForce RTX 5060 8GB 2X OC GDDR7 PCIe 5.0 x16 Graphics Card White,124000,,ZahComputers,Msi,8.0,,
+GPU,MSI VENTUS GeForce RTX 5060 8GB 2X OC GDDR7 PCIe 5.0 x16  Graphics Card,125000,,ZahComputers,Msi,8.0,,
+GPU,MSI SHADOW GeForce RTX 5060 8GB 2X OC GDDR7 PCI Express 5.0 x 16 (use x8) Graphics Card,125000,,ZahComputers,Msi,8.0,,
+GPU,ZOTAC GAMING GeForce Twin Edge RTX 5060  8GB 128-bit 28 GDDR7 PCI Express 5.0 x8 DLSS 4 Graphics Card,112000,,ZahComputers,Zotac,8.0,,
+GPU,GIGABYTE WINDFORCE GeForce RTX 5060 Ti 8GB GDDR7 PCI Express 5.0 ATX Graphics Card,145000,,ZahComputers,Gigabyte,8.0,,
+GPU,Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card,185000,,ZahComputers,Palit,16.0,,
+GPU,GIGABYTE WINDFORCE GeForce RTX 5060 8GB GDDR7 PCI Express 5.0 ATX Graphics Card,120000,,ZahComputers,Gigabyte,8.0,,
+GPU,PNY Quadro Nvidia Ampere Architecture Pro RTXA5000 24GB GDDR6 VRAM Graphics Card,650000,,ZahComputers,Pny,24.0,,
+GPU,Asus ROG Astral GeForce RTX™ 5080 16GB GDDR7 OC Edition Graphics Card,649990,,ZahComputers,Asus,16.0,,
+GPU,Sapphire Nitro+ Radeon RX 9070 XT 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,285000,,ZahComputers,Sapphire,16.0,,
+GPU,Sapphire Pure Radeon RX 9070 XT 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,260000,,ZahComputers,Sapphire,16.0,,
+GPU,Sapphire Pulse Radeon RX 9070 XT 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,260000,,ZahComputers,Sapphire,16.0,,
+GPU,Sapphire Nitro+ Radeon RX 9070 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,250000,,ZahComputers,Sapphire,16.0,,
+GPU,Sapphire Pulse Radeon RX 9070 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,215000,,ZahComputers,Sapphire,16.0,,
+GPU,Gigabyte AERO GeForce RTX 5080 OC 16GB GDDR7 PCI Express 5.0 Graphics Card,450000,,ZahComputers,Gigabyte,16.0,,
+GPU,ZOTAC SOLID OC GeForce RTX 5070 Ti 16GB 256-Bit GDDR7 PCI Express 5.0 Graphics – White,325000,,ZahComputers,Zotac,16.0,,
+GPU,ZOTAC GAMING GeForce Twin Edge OC RTX 5060 Ti 8GB 128-Bit GDDR7 PCI Express 5.0 x8 DLSS 4.0 Graphics Card,146000,,ZahComputers,Zotac,8.0,,
+GPU,COLORFUL GeForce RTX 3050 NB DUO V2-V 8GBV2-V GDDR6 Graphics Card,77000,,ZahComputers,Colorful,,,
+GPU,COLORFUL GeForce RTX 5070 NB EX 12GB-V GDDR7 Graphics Card,235000,,ZahComputers,Colorful,12.0,,
+GPU,COLORFUL iGame GeForce RTX 5070 Ultra W OC 12GB-V GDDR7 Graphics Card,245000,,ZahComputers,Colorful,12.0,,
+GPU,COLORFUL iGame GeForce RTX 5070 Vulcan OC 12GB-V GDDR7 Graphics Card,250000,,ZahComputers,Colorful,12.0,,
+GPU,COLORFUL iGame GeForce RTX 5080 Vulcan OC 16GB-V GDDR7 Graphics Card,495000,,ZahComputers,Colorful,16.0,,
+GPU,ZOTAC Gaming Geforce Solid RTX 5070 12GB 192-Bit GDDR7 PCI Express 5.0 DLSS 4.0 Graphics Card,212000,,ZahComputers,Zotac,12.0,,
+GPU,Sapphire Pulse AMD Radeon RX 7600 XT 16GB Graphics Card,120000,,ZahComputers,Sapphire,16.0,,
+GPU,Sapphire NITRO+ Radeon RX 7700 XT 12GB GDDR6 PCI Express 4.0 x16 Graphics Card,170000,,ZahComputers,Sapphire,12.0,,
+GPU,"Sapphire Pure AMD Radeon RX 7700 XT 12GB Frostpunk 2 Edition Gaming Graphics Card, AMD RDNA 3",155000,,ZahComputers,Sapphire,12.0,,
+GPU,Sapphire PULSE Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Graphics Card,170000,,ZahComputers,Sapphire,16.0,,
+GPU,SAPPHIRE PURE Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Video Card,175000,,ZahComputers,Sapphire,16.0,,
+GPU,"Sapphire Pulse AMD Radeon RX 7900 XT Gaming Graphics Card with 20GB GDDR6, AMD RDNA 3",260000,,ZahComputers,Sapphire,20.0,,
+GPU,Sapphire Nitro+ Radeon RX 7900 XT Vapor-X 20GB GDDR6 PCI Express 4.0 x16 ATX Video Graphics Card,255000,,ZahComputers,Sapphire,20.0,,
+GPU,Sapphire Pulse RX 7900 XTX OC 24GB Graphics Card,310000,,ZahComputers,Sapphire,24.0,,
+GPU,Sapphire Nitro+ AMD Radeon RX 7900 XTX Vapor-X 24GB Graphics Card,335000,,ZahComputers,Sapphire,24.0,,
+GPU,SAPPHIRE PULSE Radeon RX 560 2GB GDDR5 CrossFireX Support Video Card – Refurbished,20000,,ZahComputers,Sapphire,2.0,,
+GPU,ASUS ROG GeForce RTX NVLink Graphics Card – 4-Slot Spacing,8000,,ZahComputers,Asus,,,
+GPU,Asus AMD VGA PH-RX550-4G-EVO Graphic Card,43999,,ZahComputers,Asus,4.0,,
+GPU,ASUS ProArt GeForce RTX 4070 Super 12GB OC Edition Graphics Card,254999,,ZahComputers,Asus,12.0,,
+GPU,MSI GeForce RTX 5080 SHADOW 3X OC Triple Fan 16GB GDDR7 PCIe 5.0 Graphics Card,410000,,ZahComputers,Msi,16.0,,
+GPU,MSI GeForce RTX 5070 Ti GAMING TRIO OC PLUS Graphics Card,385000,,ZahComputers,Msi,,,
+GPU,MSI GeForce RTX 5070 12GB Vanguard SOC Launch Edition Graphics Card,295000,,ZahComputers,Msi,12.0,,
+GPU,MSI GeForce RTX 5070 12GB Gaming Trio OC Graphics Card,275000,,ZahComputers,Msi,12.0,,
+GPU,EASE E740 GeForce GT740 4GB GDDR5 Graphics Card,21000,,ZahComputers,Other,4.0,,
+GPU,EASE E730 GeForce GT730 4GB GDDR5 Graphics Card,19440,,ZahComputers,Other,4.0,,
+GPU,Ease RX 580 8GB Graphics Card,37000,,ZahComputers,Other,8.0,,
+GPU,EASE E305e GeForce RTX 3050 Graphics Card – 6GB,58499,,ZahComputers,Other,6.0,,
+GPU,EASE E305 GeForce RTX 3050 Graphics Card – 8GB,74000,,ZahComputers,Other,8.0,,
+GPU,EASE NVIDIA GeForce GTX1660S 6GB GDDR6 Graphics Card,57999,,ZahComputers,Other,6.0,,
+GPU,Gigabyte GeForce RTX 5080 WINDFORCE OC SFF 16GB GDDR7 VRAM PCIe 5.0 x16 Interface Graphics Card,520000,,ZahComputers,Gigabyte,16.0,,
+GPU,"ASUS Dual NVIDIA GeForce RTX 3050 6GB OC Edition Gaming Graphics Card – PCIe 4.0, 6GB GDDR6 Memory, HDMI 2.1, DisplayPort 1.4a, 2-slot Design, Axial-tech Fan Design, 0dB Technology,",77000,,ZahComputers,Asus,6.0,,
+GPU,Zotac Gaming Geforce RTX 5080 Solid 16GB GDDR7 256 Bit Graphics Card,430000,,ZahComputers,Zotac,16.0,,
+GPU,ASUS TUF Gaming GeForce RTX™ 5090 OC 32GB GDDR7 Gaming Graphics Card,1100000,,ZahComputers,Asus,32.0,,
+GPU,ASUS Dual GeForce RTX 4060 Ti EVO OC 16GB Edition Gaming Graphics Card,195000,,ZahComputers,Asus,16.0,,
+GPU,ASUS Radeon RX 7900 XTX TUF Gaming Graphics Card,310000,,ZahComputers,Asus,,,
+GPU,ASUS ProArt GeForce RTX 4070 Ti 16GB SUPER OC Edition GDDR6X PCI Express 4.0 Graphics Card,332999,,ZahComputers,Asus,16.0,,
+GPU,MSI GeForce GT N730 4GB DDR3 PCI Express 2.0 x16 ATX Video Card,20500,,ZahComputers,Msi,4.0,,
+GPU,ASUS Dual GeForce RTX™ 4060 Ti EVO 8GB GDDR6 OC Edition Gaming Graphics Card,165000,,ZahComputers,Asus,8.0,,
+GPU,ASUS TUF Gaming GeForce RTX™ 4060 Ti 8GB GDDR6 OC Edition Gaming Graphics Card,149999,,ZahComputers,Asus,8.0,,
+GPU,ASUS Dual RTX 4060 OC V2 8GB GDDR6 ATX Graphics Card,123000,,ZahComputers,Asus,8.0,,
+GPU,ASUS Dual GeForce RTX 4070 12GB SUPER EVO OC Edition Gaming Graphics Card,230000,,ZahComputers,Asus,12.0,,
+GPU,ASUS Dual GeForce RTX 4070 Ti 16GB SUPER OC Edition Gaming Graphics Card,295000,,ZahComputers,Asus,16.0,,
+GPU,MSI GeForce GT 1030 4GB D4 LP OC Graphics Cards,21000,,ZahComputers,Msi,4.0,,
+GPU,MSI Ventus GeForce RTX 3050 8GB 2X XS OC GDDR6 PCI Express 4.0 x8 ATX Graphics Cards,82000,,ZahComputers,Msi,8.0,,
+GPU,MSI Ventus GeForce RTX 4060 Ti 16GB 2X OC GDDR6 PCI Express 4.0 x8 ATX Graphics Cards,155000,,ZahComputers,Msi,16.0,,
+GPU,MSI Ventus GeForce RTX 4070 SUPER 12GB 2X OC GDDR6X PCI Express 4.0 ATX Graphics Cards,192000,,ZahComputers,Msi,12.0,,
+GPU,MSI GeForce RTX 3060 Ventus 2X 12G OC 12GB GDDR6 PCI Express 4.0 Graphics Card,105000,,ZahComputers,Msi,12.0,,
+GPU,ASUS Dual GeForce RTX™ 4060 Ti 8GB GDDR6 PCI Express 4.0 Graphics Card,137990,,ZahComputers,Asus,8.0,,
+GPU,ASUS Dual GeForce RTX 3050 V2 8GB GDDR6 with Dual Fan Graphics Card,88000,,ZahComputers,Asus,8.0,,
+GPU,Asus ROG Herculx XH01 Graphics Card Holder,15000,,ZahComputers,Asus,,,
+GPU,ZOTAC GAMING GeForce RTX 4060 Ti 8GB Twin Edge DLSS 3 8GB GDDR6 128-bit 18 Gbps PCIE 4.0 Compact Gaming Graphics Card,131000,,ZahComputers,Zotac,8.0,,
+GPU,"SAPPHIRE PULSE AMD Radeon RX 6800 XT with 16GB GDDR6, AMD RDNA 2 Gaming Graphics Card – Refurbished",110000,,ZahComputers,Sapphire,16.0,,
+GPU,SAPPHIRE PULSE Radeon RX 6400 4GB GDDR6 PCI Express 4.0 Low Profile Video Card,45000,,ZahComputers,Sapphire,4.0,,
+GPU,MSI GeForce RTX 2060 SUPER™ VENTUS GP OC 8GB DDR6 256-Bit Graphic Card Used,66000,,ZahComputers,Msi,8.0,,
+GPU,ASRock Intel Arc B580 Steel Legend 12GB OC 2800 MHz 19 Gbps 192 Bits GDDR6 7680 x 4320 650W Triple Fan Graphics Card,104000,,ZahComputers,Other,12.0,,
+GPU,MSI Gaming GeForce RTX 4090 24GB GDDR6X PCI Express 4.0 Video Card (Open Box),685000,,ZahComputers,Msi,24.0,,
+GPU,ASUS ROG Strix GeForce RTX 5070 Ti OC Edition 16GB 256-Bit GDDR7 PCI Express 5.0 DLSS 4.0 Graphics Card,355000,,ZahComputers,Asus,16.0,,
+GPU,Sapphire Pure Radeon RX 9060 XT 16GB GDDR6 PCI Express 5.0 x16 ATX Graphics Card,155000,,ZahComputers,Sapphire,16.0,,
+GPU,Asus ROG Astral GeForce RTX™ 5080 16GB GDDR7 OC Edition Graphics Card White,649990,,ZahComputers,Asus,16.0,,
+GPU,ZOTAC GAMING GeForce RTX 5070 Ti AMP Extreme INFINITY 16GB 256-Bit GDDR7 PCI Express 5.0 DLSS 4.0 Graphics Card,329990,,ZahComputers,Zotac,16.0,,
+GPU,ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition 16GB GDDR7 TUF-RTX5070TI-O16G-GAMING PCI-Express 5.0 DLSS 4.0 Graphics Card,360000,,ZahComputers,Asus,16.0,,
+GPU,ZOTAC SOLID OC GeForce RTX 5090 32GB 512-Bit GDDR7 PCI Express 5.0 x16 DLSS 4.0 Video Card,980000,,ZahComputers,Zotac,32.0,,
+GPU,ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition PCI Express 5.0 DLSS 4.0 Graphics Card,320000,,ZahComputers,Asus,16.0,,
+GPU,MSI GeForce RTX 5060 Ti 16GB GAMING TRIO OC GDDR7 PCIe 5.0 x16 Graphics Card,185000,,ZahComputers,Msi,16.0,,
+GPU,COLORFUL GeForce RTX 3060 NB DUO 12G V2 L-V Graphics Card,96999,,ZahComputers,Colorful,12.0,,
+GPU,Zotac Gaming GeForce RTX 5070 Twin Edge DLSS 4 12GB GDDR7 192-bit 28 Gbps PCIe 5.0 Gaming Graphics Card,215000,,ZahComputers,Zotac,12.0,,
+GPU,Nvidia Geforce RTX 2060 Super Founders Edition Graphics Card,65000,,ZahComputers,Other,,,
+GPU,ZOTAC AMP GeForce RTX 5060 Ti 16GB GDDR7 PCI Express 5.0 x8 ATX Graphics,172000,,ZahComputers,Zotac,16.0,,
+GPU,MSI GeForce RTX 5070 GAMING TRIO OC WHITE Graphics Card,259990,,ZahComputers,Msi,,,
+GPU,ASRock Steel Legend Radeon RX 9070 XT 16GB GDDR6 PCI Express 5.0 x16 Graphics Card,258000,,ZahComputers,Other,16.0,,
+GPU,MAXSUN  RX 580 8GB 2048SP Overseas Edition M.2 Gaming Graphics Card,32000,,ZahComputers,Other,8.0,,
+GPU,MSI VENTUS GeForce RTX 5060 Ti 16G 3X OC PLUS GDDR7 PCIe 5.0 x16 Graphics Card,182000,,ZahComputers,Msi,16.0,,
+GPU,ASUS TUF Gaming GeForce RTX 5070 Ti White OC Edition 16GB GDDR7 PCI-Express 5.0 DLSS 4.0 Graphics Card,380000,,ZahComputers,Asus,16.0,,
+GPU,Gigabyte WindForce GeForce RTX 5070 Ti 16GB GDDR7 PCI Express 5.0 ATX Graphics Card,310000,,ZahComputers,Gigabyte,16.0,,
+GPU,Gigabyte NVIDIA GeForce RTX 3060 Windforce OC 12GB GDDR6 Graphics Card,100000,,ZahComputers,Gigabyte,12.0,,
+GPU,INNO3D GEFORCE GTX 1660 SUPER TWIN X2 6GB DDR6 Graphic Card (Used),48000,,ZahComputers,Other,6.0,,
+GPU,ASUS TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X Gaming Graphics Card (Used),700000,,ZahComputers,Asus,24.0,,
+GPU,INNO3D GeForce RTX™ 4060 TWIN X2 V2 GDDR6 128-bit Graphic Card,108000,,ZahComputers,Other,,,
+GPU,"XFX Swift AMD Radeon RX 9070XT 16GB GDDR6, 256bit, HDMI/3x DP, AMD RDNA 4 Gaming Edition Graphics Card – Black",275000,,ZahComputers,Other,16.0,,
+GPU,"XFX Swift AMD Radeon RX 9070XT 16GB GDDR6, 256bit, HDMI/3x DP, AMD RDNA 4 Gaming Edition Graphics Card – White",285000,,ZahComputers,Other,16.0,,
+GPU,"XFX Quicksilver AMD Radeon RX 9070XT 16GB GDDR6 256bit, HDMI/3x DP, AMD RDNA 4 Gaming Edition Graphics Card  – White",269000,,ZahComputers,Other,16.0,,
+GPU,"XFX Quicksilver AMD Radeon RX 9070XT 16GB GDDR6 256bit, HDMI/3x DP, AMD RDNA 4 Gaming Edition Graphics Card  – Black",285000,,ZahComputers,Other,16.0,,
+GPU,Sapphire Nitro+ AMD Radeon RX 6800 XT OC 16GB Gaming Graphics Card – Factory Refurbished,125000,,ZahComputers,Sapphire,16.0,,
+GPU,COLORFUL iGame GeForce RTX 3050 Ultra W DUO OC 8GBV2-V GDDR6 Graphics Card,80000,,ZahComputers,Colorful,,,
+GPU,ZOTAC GAMING GeForce RTX 4070Ti AMP Extreme AIRO DLSS 3 12GB GDDR6X 192-bit 21 Gbps PCIE 4.0 Gaming Graphics Card (Open Box),195000,,ZahComputers,Zotac,12.0,,
+GPU,Sapphire Pulse AMD Radeon RX 6650 XT 8GB Graphics Card,90000,,ZahComputers,Sapphire,8.0,,
+GPU,Sapphire PULSE Radeon RX 7600 8GB GDDR6 PCI Express 4.0 x8 ATX Graphics Card,92500,,ZahComputers,Sapphire,8.0,,
+GPU,Sapphire NITRO+ Radeon RX 7800 XT 16GB GDDR6 PCI Express 4.0 x16 ATX Graphics Card,200000,,ZahComputers,Sapphire,16.0,,
+GPU,Gigabyte GeForce RTX 5070 AERO OC 12GB GDDR7 PCI Express 5.0 ATX Graphics Card,275000,,ZahComputers,Gigabyte,12.0,,
+GPU,Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12GB GDDR7 PCI Express 5.0 ATX Graphics Card,239990,,ZahComputers,Gigabyte,12.0,,
+GPU,SAPPHIRE PULSE Radeon RX 550 4GB GDDR5 Video Card – Refurbished,19000,,ZahComputers,Sapphire,4.0,,
+GPU,SAPPHIRE PULSE Radeon RX550 2GB GDDR5 Video Graphics Card – Refurbished,16000,,ZahComputers,Sapphire,2.0,,
+GPU,GIGABYTE AORUS GeForce RTX 5090 32GB GDDR7 PCI Express 5.0 ATX Graphics Card,1399990,,ZahComputers,Gigabyte,32.0,,
+GPU,MSI GeForce RTX 5070 Ti 16GB Vanguard SOC Launch Edition Graphics Card,405000,,ZahComputers,Msi,16.0,,
+GPU,EASE E360 GeForce RTX 3060 Graphics Card – 12GB,88999,,ZahComputers,Other,12.0,,
+GPU,Gigabyte GeForce RTX 5070 Ti AERO OC 16GB GDDR7 VRAM PCIe 5.0 x16 Interface Graphics Card,375000,,ZahComputers,Gigabyte,16.0,,
+GPU,Gigabyte GeForce RTX 5070 Ti GAMING OC 16GB GDDR7 VRAM PCIe 5.0 x16 Interface Graphics Card,349990,,ZahComputers,Gigabyte,16.0,,
+GPU,MSI SUPRIM SOC GeForce RTX 5080 16GB GDDR7 Boostable 2760 MHz (OC) Graphics Card,579990,,ZahComputers,Msi,16.0,,
+GPU,"ZOTAC GAMING GeForce RTX 4080 SUPER Trinity Black Edition DLSS 3 16GB GDDR6X 256-bit 23 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, SPECTRA RGB Lighting,",332000,,ZahComputers,Zotac,16.0,,
+GPU,MAXSUN Intel Arc B580 iCraft 12G Graphics Card,99000,,ZahComputers,Other,12.0,,
+GPU,MAXSUN Intel Arc B580 Milestone 12G ATX Graphics Card,89000,,ZahComputers,Other,12.0,,
+GPU,MSI Ventus GeForce RTX 3050 6GB 2X E OC GDDR6 PCI Express 4.0 x8 ATX Graphics Cards,72000,,ZahComputers,Msi,6.0,,
+Laptop,"₨382,500.00-₨765,000.00",382500,,ZahComputers,Other,,,
+Laptop,"₨765,000.00-₨1,147,500.00",765000,,ZahComputers,Other,,,
+Laptop,"₨1,147,500.00-₨1,530,000.00",1147500,,ZahComputers,Other,,,
+Laptop,HP 15-FD0532NIA Laptop 13th Gen Core i3-1315U 4GB DDR4 256GB SSD Intel UHD Graphics 15.6″ FHD DOS Silver,103000,,ZahComputers,Hp,,4.0,256.0
+Laptop,HP 250 G10 Laptop 13th Gen Core i3-1315U 8GB DDR4 512GB SSD Intel UHD Graphics 15.6″ FHD DOS Turbo Silver,117000,,ZahComputers,Hp,,8.0,512.0
+Laptop,Dell Inspiron 14 5440 Laptop 13th Gen Core i5-1334U 8GB DDR5 512GB SSD Intel UHD Graphics 14″ FHD+ Windows 11 Home Carbon Black,143000,,ZahComputers,Dell,,8.0,512.0
+Laptop,"HP 15-FD0150WM Intel Core i5-1334U 8GB DDR4 512GB SSD Intel Iris Xe Graphics 15.6″ FHD IPS Touchscreen, Windows 11 Natural Silver",138000,,ZahComputers,Hp,,8.0,512.0
+Laptop,Lenovo LOQ 15 Gaming Laptop 13th Gen Core i5-13450HX 16GB DDR5 512GB SSD NVIDIA RTX 5050 8GB Graphics 15.6″ FHD IPS 144Hz DOS Luna Gray,250000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,HP Victus 15-FA2082WM Gaming Laptop 13th Gen Core i5-13420H 16GB DDR4 512GB SSD NVIDIA RTX 4050 6GB Graphics 15.6″ FHD IPS 144Hz Windows 11 Home Mica Silver,220000,,ZahComputers,Hp,,16.0,512.0
+Laptop,HP 250 G10 Laptop 13th Gen Core i7-1355U 16GB DDR4 512GB SSD Intel Iris Xe Graphics 15.6″ FHD DOS,178000,,ZahComputers,Hp,,16.0,512.0
+Laptop,Lenovo V15 G4 Laptop 13th Gen Core i7-13620H 16GB DDR4 512GB SSD Intel UHD Graphics 15.6″ FHD IPS DOS Iron Grey,177000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"HP Omnibook X Flip 16-BE0003DX AMD Ryzen 5 220 8GB DDR5 512GB SSD, AMD Radeon 740M Graphics 16″ WUXGA IPS 2K Touch Screen Windows 11 Meteor Silver",165000,,ZahComputers,Hp,,8.0,512.0
+Laptop,HP Omnibook X Flip X360 16-AS0043DX Laptop Intel Core Ultra 9-288V 32GB DDR5 2TB SSD Intel Arc 140V Graphics 16″ 3K OLED Touch Screen Windows 11 Home Eclipse Grey,370000,,ZahComputers,Hp,,32.0,
+Laptop,"HP OmniBook Ultra Flip 4-FH0013DX Laptop Intel Core Ultra 7 Series 2 256V 16GB DDR5 1TB SSD Intel Arc Graphics, 14.1″ UWVA 3K OLED Touch Windows 11 Home Eclipse gray",390000,,ZahComputers,Hp,,16.0,
+Laptop,HP OmniBook Ultra Flip 14-FH0033DX Laptop Intel Core Ultra 9 Series 2 288V 32GB DDR5 2TB SSD Intel Arc Graphics 14.1″ UWVA 3K OLED Touch Screen Windows 11 Home Eclipse Gray,500000,,ZahComputers,Hp,,32.0,
+Laptop,HP Victus Gaming Laptop 15-FA2787NR Intel Core i7-13620H 13th Generation 16GB Ram DDR4 512GB SSD NVme NVIDIA GeForce RTX™ 5060 8GB GDDR7 Graphics 15.6″ FHD (1920×1080) IPS 144Hz Backlit KB Windows 11 Mica Silver,335000,,ZahComputers,Hp,,16.0,512.0
+Laptop,Lenovo ThinkBook 16 AMD Ryzen 5 7533HS 16GB DDR5 512GB SSD M.2 NVMe 16″ WUXGA 2GB AMD Radeon 660M GC FPR | Backlit Keyboard,175000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo Legion Pro 5 16IAX10 Intel Core Ultra 9 275HX 32GB (2x 16GB) SO-DIMM DDR5-5600 1TB SSD M.2 2280 PCIe 4.0×4 NVMe 16″ WQXGA (2560×1600) OLED 500nits Glossy, 100% DCI-P3, 165Hz NVIDIA® GeForce RTX™ 5070 8GB GDDR7 DOS Eclipse Black",680000,,ZahComputers,Lenovo,,32.0,
+Laptop,Acer Nitro V 15 ANV15-52-54T0 Gaming Laptop 13th Gen Core i5-13420H 16GB DDR4 512GB SSD NVIDIA RTX 5050 8GB Graphics 15.6″ FHD IPS 165Hz Windows 11 Home Black,275000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Acer Nitro V 15 ANV15-52-769M Gaming Laptop 13th Gen Core i7-13620H 16GB DDR4 512GB SSD NVIDIA RTX 5050 8GB Graphics 15.6″ FHD IPS 165Hz Windows 11 Home Black,320000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Acer Nitro V 16S AI ANV16S-41-R89V Gaming Laptop AMD Ryzen 7 260 16GB DDR5 512GB SSD NVIDIA RTX 5060 8GB Graphics 4-Zone RGB Keyboard 16″ WUXGA IPS 180Hz Windows 11 Home Black,345000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Acer Predator Helios Neo 16S PHN16S-71-76TK Gaming Laptop Intel Core Ultra 7-255HX 16GB DDR5 512GB SSD NVIDIA RTX 5060 8GB Graphics 16″ WQXGA OLED 240Hz Windows 11 Home Black,440000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Acer Predator Helios Neo 16S AI PHN16S-71-956N Gaming Laptop Intel Core Ultra 9-275HX 16GB DDR5 1TB SSD NVIDIA RTX 5060 8GB Graphics 16″ WQXGA OLED 240Hz Windows 11 Home,480000,,ZahComputers,Acer,,16.0,
+Laptop,"Acer Predator Helios Neo 16S AI PHN16S-71-97CK Gaming Laptop Intel Core Ultra 9 275HX, 16GB DDR5 1TB SSD NVIDIA RTX 5070 8GB Graphics 16″ WQXGA OLED 240Hz Windows 11 Home",550000,,ZahComputers,Acer,,16.0,
+Laptop,Acer Predator Helios 18 AI PH18-73-96Y0 Gaming Laptop Intel Core Ultra 9 275HX 32GB DDR5 1TB SSD NVIDIA RTX 5080 16GB Graphics 18″ WQXGA IPS Mini LED 250Hz Windows 11 Home,910000,,ZahComputers,Acer,,32.0,
+Laptop,"Acer Predator Helios 16 AI PH16-73-95Q8 Gaming Laptop Intel Core Ultra 9 275HX 64GB DDR5 2TB SSD NVIDIA RTX 5090 24GB Graphics 16″ WQXGA OLED 240Hz, Windows 11 Home",1249000,,ZahComputers,Acer,,64.0,
+Laptop,Asus Zenbook UX3405CA Intel Core Ultra 7 255H 16GB DDR5 512GB SSD Intel Arc Graphics 14″ FHD+ OLED 60Hz Touch Screen Windows 11 Home Jasper Grey,262000,,ZahComputers,Asus,,16.0,512.0
+Laptop,Dell 15 DC15250 Intel Core i5 13th Gen 8GB 512GB SSD 15.6″ FHD 120Hz IPS Display Backlit KB Dos Carbon Black,148000,,ZahComputers,Dell,,8.0,512.0
+Laptop,HP EliteBook 840 G11 Ultra 5 14″ Display 32GB Ram 512GB SSD Window 11,205000,,ZahComputers,Hp,,32.0,512.0
+Laptop,Lenovo Legion 5 16IAX10 Intel Core U9 275HX 32GB RAM DDR5-5600 1TB SSD 16″ WQXGA (2560×1600) OLED 500nits Display RTX 5070 8GB GDDR7 Backlit Keyboard 24-Zone RGB Win 11 Home Eclipse Black,630000,,ZahComputers,Lenovo,,32.0,
+Laptop,Lenovo LOQ 15IAX9E Intel Core i5 12th Gen 16GB D5 512GB SSD 15.6 FHD IPS 144Hz Display NVIDIA RTX 2050 4GB Graphics Backlit KB DOS Luna Grey,182000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,HP Victus 15-FB3093DX AMD Ryzen 7 16GB D5 512GB SSD 15.6″ FHD Display NVIDIA GeForce RTX 4050 6GB Graphics Backlit KB Win11 Mica Silver,233000,,ZahComputers,Hp,,16.0,512.0
+Laptop,"Acer Nitro V 16 ANV16-41-R2YJ Gaming Laptop AMD Ryzen 7-8845HS 16GB DDR5, 512GB SSD, NVIDIA RTX 4060 8GB Graphics 16″ WUXGA IPS 165Hz DOS Black",310000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Acer Nitro V 15 ANV15-52-99CV Gaming Laptop 13th Gen Core i9-13900H 16GB DDR5 512GB SSD NVIDIA RTX 5050 8GB Graphics 15.6″ FHD IPS 165Hz DOS,335000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Acer Predator Helios 18 AI PH18-73-99HE Gaming Laptop Intel Core Ultra 9 275HX 96GB DDR5 2TB SSD NVIDIA RTX 5090 24GB Graphics 18 WQUXGA 4K IPS Mini LED 120Hz Windows 11 Home,1299000,,ZahComputers,Acer,,,96.0
+Laptop,Asus TUF A15 FA507UV-8945 Gaming Laptop AMD Ryzen 9 8945H 16GB RAM DDR5 512GB SSD NVIDIA RTX 4060 8GB Graphics Card 15.6″ WQHD 2.5K IPS 165Hz Windows 11 Home Eclipse Gray,420000,,ZahComputers,Asus,,16.0,512.0
+Laptop,HP OMEN 16-AP0167AX Gaming Laptop – AMD Ryzen 9 8940HX 16GB RAM 512GB SSD RTX 5060 8GB 16” 2K Display – Shadow Black,420000,,ZahComputers,Hp,,16.0,512.0
+Laptop,"Lenovo ThinkBook 14 Gen 8 – Intel Core Ultra 7 255H, 16GB RAM, 512GB SSD, 14″ WUXGA IPS, Intel Arc Graphics, Backlit Keyboard, Fingerprint Reader DOS",250000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,Asus Expertbook B1403CVA-I516G512D Intel Core i5 1334U 13th Gen 16GB D5 512GB SSD 14.0″ FHD Backlit KB Fingerprint Reader DOS Gentle Gray,150000,,ZahComputers,Asus,,16.0,512.0
+Laptop,Asus Vivobook S 14 K5406SA-PP075W Intel Core Ultra 7 256V 16GB D5 1TB SSD 14.0″ 3K OLED Backlit KB Win11 Black,355000,,ZahComputers,Asus,,16.0,
+Laptop,Asus Vivobook Pro15 N6506CU-MA018 Ultra 7-255H 16GB 1TB SSD 15.6 OLED Nvidia 8GB RTX 4050 GDDR6 Backlit KB Dos Silver,440000,,ZahComputers,Asus,,16.0,
+Laptop,Asus Vivobook Pro15 N6506MV-MA022 Ultra 7-155H 16GB 1TB SSD 15.6 OLED Nvidia 8GB RTX 4060 GDDR6 Backlit KB Dos Silver,390000,,ZahComputers,Asus,,16.0,
+Laptop,Asus Vivobook S 15 K5507QA-MA048W Snapdragon X Plus X1P 42 100 16GB D5 1TB SSD 15.6″ 3K OLED Win11 Cool Silver,335000,,ZahComputers,Asus,,16.0,
+Laptop,Lenovo Legion 5 16IAX10 Gaming Laptop 16″ WQXGA IPS 240Hz Display Intel Core Ultra 9 275HX 32GB RAM 1TB SSD GeForce RTX 5060 8GB Win11 English KB Storm Grey,468000,,ZahComputers,Lenovo,,32.0,
+Laptop,"MSI Katana 15 HX 14th Gen i7-14650HX 16GB DDR5 RAM 1TB SSD 15.6’’ (QHD, 2560×1440) 165Hz NVIDIA RTX 5070/8GB Graphic, 4-ZONE RGB Backlit Keyboard Black Windows 11 ENG KB",470000,,ZahComputers,Msi,,16.0,
+Laptop,Lenovo LOQ 15IRX9 Intel Core i5 13450HX 13th Gen 24GB D5 512GB SSD 15.6″ FHD Display NVIDIA GeForce RTX 4050 6GB Graphics Backlit KB Dos Luna Grey,269000,,ZahComputers,Lenovo,,,512.0
+Laptop,"Lenovo Legion 5 151RX10 I7-14700HX 2x 8GB SO-DIMM DDR5-4800 1TB SSD M.2 2242 PCIe 4.0×4 NVIDIA GeForce RTX 5060 8GB GDDR7, Boost Clock 15.6″ WQXGA OLED 165Hz Laptop",450000,,ZahComputers,Lenovo,,8.0,
+Laptop,ASUS ROG STRIX G16 G614FM-WS94 Gaming Laptop  AMD Ryzen 9 9955HX 16GB 1TB SSD NVIDIA GeForce RTX 5060 8GB 16″ WUXGA Gray Gaming Laptop,540000,,ZahComputers,Asus,,16.0,
+Laptop,"Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 7 255H Processor 16GB DDR5 Ram 512GB SSD 16″ WUXGA (1920 x 1200) IPS LED Display (300nits, 60Hz) Intel® Arc 140T GPU Backlit Keyboard Arctic Grey",255000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,ASUS Expert Book B1503CVA-I516512G8D 13th Gen Core i5-1334U Intel UHD Graphics 15.6″ FHD Laptop,153000,,ZahComputers,Asus,,,
+Laptop,Microsoft 8WX-00002 Surface Slim Pen 2 Commercial Matte Black,33000,,ZahComputers,Other,,,
+Laptop,Microsoft Surface Pro Signature Keyboard Cover with Fingerprint Reader Black,60000,,ZahComputers,Other,,,
+Laptop,Microsoft Surface Pro 10 ZDX-00007 Intel Core Ultra 7 165U Processor 16GB RAM 1TB SSD 13″ Pixel Sense Flow Display Windows 11 Pro Platinum,475000,,ZahComputers,Other,,16.0,
+Laptop,Microsoft Surface Pro 10 ZDW-00007 Intel Core Ultra 7 165U Processor 16GB RAM 512GB SSD 13″ Pixel Sense Flow Display Windows 11 Pro Platinum,415000,,ZahComputers,Other,,16.0,512.0
+Laptop,Microsoft Surface Pro 10 ZDV-00007 Intel Core Ultra 7 165U Processor 16GB RAM 256GB SSD 13″ Pixel Sense Flow Display Windows 11 Pro Platinum,390000,,ZahComputers,Other,,16.0,256.0
+Laptop,Microsoft Surface Pro 10 ZDT-00007 Intel Core Ultra 5 135U Processor 16GB RAM 256GB SSD 13″ Pixel Sense Flow Display Windows 11 Pro Platinum,320000,,ZahComputers,Other,,16.0,256.0
+Laptop,HP OmniBook X Flip 16-AS0023DX Intel Core Ultra 7 256V 16GB 1TB SSD 16″ 2K Touchscreen x360 Display Backlit KB Win11 Eclipse Gray,260000,,ZahComputers,Hp,,16.0,
+Laptop,Acer Nitro Lite NL16-71G-55JR Intel Core i5-13420H 13th Gen 16GB D5 512GB SSD 16″ WUXGA IPS 165Hz Display NVIDIA GeForce RTX 3050 6GB Graphics Backlit KB Win11 Pearl White,199000,,ZahComputers,Acer,,16.0,512.0
+Laptop,Lenovo ThinkBook 14 G7 – Meteor Lake – 14th Gen Core Ultra 7 155H 16GB 512-GB SSD Intel Integrated Arc Graphics 14″ WUXGA 1200p IPS 300nits Display DolbyAudio Backlit KB FP Reader TPM 2.0 Arctic Grey,235000,,ZahComputers,Lenovo,,16.0,
+Laptop,"HP 15-FD0558NIA Laptop, Intel Core i7-1355U, 8GB DDR4 3200MHz, 512GB PCIe NVMe SSD, Intel Iris Xe Graphics, 15.6″ FHD Anti-Glare Display, Backlit Keyboard, Natural Silver",185000,,ZahComputers,Hp,,8.0,512.0
+Laptop,"Dell Alienware 16 Aurora Intel Core 7 240H Processor 1TB SSD 32GB DDR5 Ram NVIDIA GeForce RTX 5060 8GB 16.0″ WQXGA+ (2560 x 1600) Anti-Glare Display 120Hz, 300 nits Windows 11 Home",450000,,ZahComputers,Dell,,32.0,
+Laptop,Lenovo Legion Pro 5 Gen 10 – Intel Core™ Ultra 9 275HX Windows 11 Home 64 – NVIDIA GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7 – 32 GB DDR5 – 1 TB SSD M.2 2242 PCIe Gen4 TLC – 16″ WQXGA (2560 x 1600) OLED Glare Non-Touch HDR 1000 True Black 100%DCI-P3 500 nits 165Hz Window 11 Home,780000,,ZahComputers,Lenovo,,12.0,
+Laptop,"HP OMEN Slim Gaming Laptop 16-AN0119NR Intel Core Ultra 9 285H Processor 1TB SSD 16GB DDR5 Ram NVIDIA® GeForce RTX™ 5070 8GB 16.0″ WQXGA (2560×1600) IPS LED Display (240Hz, 500nits) 4-Zone RGB Backlit Keyboard Windows 11 Shadow Black",595000,,ZahComputers,Hp,,16.0,
+Laptop,"Lenovo LOQ 15IRX9 Gaming Laptop 13th Gen Core i7-13650HX, 24GB DDR5, 512GB SSD, NVIDIA RTX 3050 6GB Graphics, 15.6″ FHD IPS 144Hz, DOS, Luna Grey",260000,,ZahComputers,Lenovo,,,512.0
+Laptop,"Asus TUF F16 Gaming Laptop 14th Gen Core i7-14650HX, 32GB DDR5, 1TB SSD, NVIDIA RTX 5060 8GB Graphics, 16.1″ FHD+ IPS 165Hz, Windows 11 Home, Jaeger Gray",435000,,ZahComputers,Asus,,32.0,
+Laptop,"Lenovo LOQ 15 Gaming Laptop 12th Gen Core i5-12450HX, 24GB DDR5, 512GB SSD, NVIDIA RTX 4050 6GB Graphics, 15.6″ FHD IPS 144Hz, DOS, Luna Grey",250000,,ZahComputers,Lenovo,,,512.0
+Laptop,Lenovo Yoga 7 2-in-1 16IML9 Laptop Intel Core Ultra 7 155U 16GB 1TB Backlit KB 16″ WUXGA IPS Display Windows 11 Storm Grey,245000,,ZahComputers,Lenovo,,16.0,
+Laptop,"Acer Predator Helios Neo 16S AI PHN16S-71-99SA Gaming Laptop Intel Core Ultra 9-275HX, 32GB DDR5, 1TB SSD, NVIDIA RTX 5070Ti 12GB Graphics, 16″ OLED WQXGA 240Hz, Windows 11 Home",670000,,ZahComputers,Acer,,32.0,
+Laptop,"Acer Predator Helios 18 AI PH18-73-96CY Gaming Laptop Intel Core Ultra 9-275HX, 64GB DDR5, 1TB SSD, NVIDIA RTX 5080 16GB Graphics, 18″ WQXGA IPS Mini LED 250Hz, Windows 11 Home",955000,,ZahComputers,Acer,,64.0,
+Laptop,ASUS TUF Gaming A14 FA401WU-RG047W Ryzen AI 9 HX370 32GB 1TB 14 WUXGA RTX 4050 6GB Win11,510000,,ZahComputers,Asus,,32.0,
+Laptop,ASUS TUF Gaming A15 FA506NCR-HN129 AMD Ryzen 7 16GB D5 512GB SSD 15.6″ FHD 144Hz RTX 3050 4GB RGB B/L KB Dos Black,240000,,ZahComputers,Asus,,16.0,512.0
+Laptop,HP 250 G10 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD Dos Silver,150000,,ZahComputers,Hp,,8.0,512.0
+Laptop,HP OmniBook 5 Flip 14-FP0023DX Intel Core 7 150U 16GB 512GB SSD 14″ 2K Touchscreen x360 Display Backlit KB Win11 Glacier Gray,198000,,ZahComputers,Hp,,16.0,512.0
+Laptop,"HP Victus 15-FA2013DX Gaming Laptop 13th Gen Core i5-13420H, 8GB DDR4, 512GB SSD, NVIDIA RTX 3050 6GB Graphics, 15.6″ FHD IPS 144Hz, Windows 11 Home, Mica Silver",192000,,ZahComputers,Hp,,8.0,512.0
+Laptop,Lenovo ThinkPad E16 G2 Intel Core Ultra 5 125H 8GB 512GB SSD 16 WUXGA Backlit KB Dos Graphite Black,225000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"HP OmniBook 5 Flip 14-FP0013DX x360 Premium Copilot AI Business Laptop – Intel Core 5 120U, 8GB DDR5 Ram, 512GB SSD, 14 Inches 2K (1920 x 1200),Touch Screen X360, Wifi 6, Backlit Keyboard, Windows 11 Home (Glacier Silver)",185000,,ZahComputers,Hp,,8.0,512.0
+Laptop,Lenovo ThinkPad E16 G2 Intel Core Ultra 5 125U 8GB 512GB SSD 16″ WUXGA Backlit KB Dos Graphite Black,230000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,HP OmniBook X Flip 14-FM0023DX Intel Core Ultra 7 256V 16GB 1TB SSD 14″ 2K Touchscreen x360 Display Backlit KB Fingerprint Reader Win11 Atmospheric Blue,255000,,ZahComputers,Hp,,16.0,
+Laptop,Dell Inspiron 16 5640 Intel Core 7 150U 16GB DDR5 1TB SSD Intel Graphics 16″ FHD+ IPS 60Hz Backlit Keyboard,262000,,ZahComputers,Dell,,16.0,
+Laptop,Dell Inspiron 16 5640 13th Gen Core i5-1334U 16GB DDR5 512GB SSD Intel Iris Xe Graphics 16″ FHD+ 60Hz Backlit Keyboard,203000,,ZahComputers,Dell,,16.0,512.0
+Laptop,Dell Inspiron 15 3530 Core i7 13th Gen 1355U 16GB RAM 512GB SSD 15.6″ FHD Display Intel Graphics Platinum Silver,202000,,ZahComputers,Dell,,16.0,512.0
+Laptop,Dell Inspiron 15 3530 Core i3 13th Gen 1305U 8GB RAM 512GB SSD 15.6″ FHD Display Intel Graphics Platinum Silver,125000,,ZahComputers,Dell,,8.0,512.0
+Laptop,Dell Latitude 15 5550 Intel Core Ultra 7-155U 8GB RAM 512GB SSD 15.6″ FHD Silver Dos,360000,,ZahComputers,Dell,,8.0,512.0
+Laptop,Dell Latitude 15 5550 Intel Core Ultra 5-125U 8GB RAM 512GB SSD 15.6″ FHD Silver Dos,300000,,ZahComputers,Dell,,8.0,512.0
+Laptop,Dell Latitude 5450 Intel Core Ultra 7-155U 8GB RAM 512GB SSD 14″ FHD  Silver Dos,360000,,ZahComputers,Dell,,8.0,512.0
+Laptop,Dell Latitude 5450 Intel Core Ultra 5-125U 8GB RAM 512GB SSD 14″ FHD  Silver Dos,320000,,ZahComputers,Dell,,8.0,512.0
+Laptop,"HP OmniBook 7 FlipNGAI 16 2 in 1 16-AU0773CL Intel Core Ultra 7-258V, 32GB DDR5, 1TB SSD, 16″ 3K OLED UWVA Touch Screen, Backlit Keyboard, Windows 11 Home, Glacier Silver",395000,,ZahComputers,Hp,,32.0,
+Laptop,"HP 15-FD0229NIA 13th Gen Core i7-1355U, 8GB DDR4, 512GB SSD, Intel Iris Xe Graphics, Backlit Keyboard, 15.6″ FHD, DOS",177500,,ZahComputers,Hp,,8.0,512.0
+Laptop,Asus ROG Strix SCAR 18 G835LX-XS97 Intel Core Ultra 9 32GB 2TB SSD 18″ WQXGA Display NVIDIA GeForce RTX 5090 24GB Graphics Backlight KB Win11 Black Gaming Laptop,1640000,,ZahComputers,Asus,,32.0,
+Laptop,Asus ROG Strix G815LW-G18.U95080 Intel Core Ultra 9 32GB 2TB SSD 18″ WQXGA Display NVIDIA GeForce RTX 5080 16GB Graphics Backlit KB Win11 Eclipse Black Gaming Laptop,1200000,,ZahComputers,Asus,,32.0,
+Laptop,HP Omen Max 16-AH0097NR Intel Core Ultra 9 32GB 1TB SSD 16″ WQXGA 240Hz Display NVIDIA GeForce RTX 5080 16GB Graphics Backlit KB Windows 11 Shadow Black Gaming Laptop,970000,,ZahComputers,Hp,,32.0,
+Laptop,MSI Vector 16 HX AI A2XWHG-061US Intel Core Ultra 7 16GB D5 512GB 16″ FHD IPS 144Hz Display NVIDIA GeForce RTX 5070Ti 12GB Graphics Backlit KB Win11 Home Cosmo Gray Gaming Laptop,690000,,ZahComputers,Msi,,16.0,512.0
+Laptop,Dell Vostro 3530 Intel Core i3 13th Gen 8GB 512GB SSD 15.6″ FHD Display Dos Black,108000,,ZahComputers,Dell,,8.0,512.0
+Laptop,HP Laptop 15-FD0499NIA13th Gen Core i5 8GB RAM 512GB SSD 15.6″ FHD Display Backlit Keyboard DOS Silver,148000,,ZahComputers,Hp,,8.0,512.0
+Laptop,HP Victus 15 FB2082WM AMD Ryzen 5 8640HS 8GB 512GB SSD 15.6 FHD IPS 144Hz Display NVIDIA RTX 4050 6GB Backlit KB Win11 Mica Silver,232000,,ZahComputers,Hp,,8.0,512.0
+Laptop,ASUS ROG Strix SCAR 18 G835LW-BS97-CB Intel Core Ultra 9 64GB 1TB SSD 18.0″ WQXGA 275Hz NVIDIA GeForce RTX 5080 Black Color,1250000,,ZahComputers,Asus,,64.0,5080.0
+Laptop,"HP Victus Gaming Laptop 15-FB2146AX – AMD Ryzen 7 8845HS, 16GB RAM, 512GB SSD, NVIDIA RTX 4060 8GB, 15.6″ FHD 144Hz Display – DOS",295000,,ZahComputers,Hp,,16.0,512.0
+Laptop,HP Victus Gaming Laptop 15-FA2701WM | Intel® Core™ i5-13420H 16GB RAM 512GB SSD NVIDIA® GeForce RTX™ 4050 6GB 15.6″ FHD 144Hz Windows 11,230000,,ZahComputers,Hp,,16.0,512.0
+Laptop,"HP Victus 15 FB2694WM gaming laptop Ryzen 7 8845HS, 16GB RAM, 1TB SSD, RTX 4060 8GB GPU, 15.6 inch Full HD IPS 144hz 300 nits display, WiFi 6, BT 5.3, Full-size, backlit keyboard, performance blue, Window 11",298000,,ZahComputers,Hp,,16.0,
+Laptop,"Lenovo ThinkPad X13 2-in-1 Gen 5 Intel Core Ultra 7 155U 16GB Soldered LPDDR5x-6400 512GB SSD M.2 2280 PCIe 4.0×4 NVMe Opal 2.0 13.3″ WUXGA (1920×1200) IPS 300nits Anti-glare, 100% sRGB, Touch Backlit, English (UK) Windows 11 Pro Black",590000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad X1 Carbon Gen 12 Intel Core Ultra 7 155U 16GB Soldered LPDDR5x-6400 512GB SSD M.2 2280 PCIe 4.0×4 Performance NVMe Opal 2.0 14″ WUXGA (1920×1200) IPS 400nits Anti-glare Backlit, English Windows 11 Pro Black",680000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad X1 Carbon Gen 12 Intel Core Ultra 7 155U 16GB Soldered LPDDR5x-6400 1TB SSD M.2 2280 PCIe 4.0×4 Performance NVMe® Opal 2.0 14″ WUXGA (1920×1200) IPS 400nits Anti-glare Backlit, English (UK) Windows 11 Pro Black",700000,,ZahComputers,Lenovo,,16.0,
+Laptop,"Lenovo ThinkPad T16 Gen 1 Intel Core i5-1235U,8GB Base DDR4,512,15.6”FHD,Wi-fi AC 1×1 + BT,FPR,,720p HD Camera,3 Cell 45Whr,65W AC,KYB UK English,W11 Pro",360000,,ZahComputers,Lenovo,,8.0,
+Laptop,"Lenovo ThinkPad T14 Gen 5 Intel Core Ultra 7 155U 1x 16GB SO-DIMM DDR5-5600 512GB SSD M.2 2242 PCIe 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 400nits Anti-glare Backlit, English (UK) NO OS Black",450000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad T14 GEN 3 Intel Core i5-1235U,8GB Base DDR4,512,14″ WUXGA (1920×1200) IPS 300nits Anti-glare Touchscreen FPR,720p HD Camera,KYB UK English,W11 Pro",400000,,ZahComputers,Lenovo,,8.0,
+Laptop,"Lenovo ThinkPad T14 GEN 3 Intel Core i5-1235U 8GB Soldered DDR4 512GB SSD M.2 Intel Iris Xe Graphics 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) Thunder Black Dos",320000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E16 Gen 2 Intel Core Ultra 7 155H 1x 16GB SO-DIMM DDR5-5600 512GB SSD M.2 2242 PCIe 4.0×4 NVMe 16″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Black",330000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad E16 Gen 1 Intel® Core™ i7-13700H 16GB Soldered DDR4-3200 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe® Opal 2.0 16″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Graphite Black",325000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad E16 Gen 1 Intel® Core™ i5-13420H 8GB Soldered DDR4-3200 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe® Opal 2.0 16″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Graphite Black",270000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E16 Gen 1 Intel Core i7-1355U Turbo up to 3.7GHz 8GB SO-DIMM DDR4-3200 Soldered 512GB SSD M.2 2242 PCIe Intel Iris Xe Graphics 16″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Graphite Black",300000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E16 Gen 1 Intel Core i5-1335U Turbo up to 3.4GHz 8GB SO-DIMM DDR4-3200 Soldered 512GB SSD M.2 2242 PCIe Intel Iris Xe Graphics 16″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Graphite Black",268000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E15 Gen 4 Intel Core i7-1255U, 8GB, 512GB SSD M.2 2242 NVMe, Integrated,NVIDIA GeForce MX550 2GB GDDR6 No OS, 15.6″ FHD, Topload Case",345000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E15 Gen 4 Intel Core i7-1255U, 8GB, 512GB SSD M.2 2242 NVMe, Integrated, No OS, 15.6″ FHD, Topload Case",270000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E15 Gen 4 Intel Core i5-1235U, 8GB, 512GB SSD M.2 2242 NVMe, Integrated, No OS, 15.6″ FHD, Topload Case",272000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E15 AMD Ryzen™ 5 5625U 8GB Soldered DDR4-3200 512GB SSD M.2 2242 PCIe 15.6″ FHD (1920×1080) IPS 300nits Anti-glare Non-backlit, English (UK) NO OS",190000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E14 Gen 6 Intel Core Ultra 7 155H 1x 16GB SO-DIMM DDR5-5600 512GB SSD M.2 2242 PCIe 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Black",320000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad E14 Gen 6 Intel Core Ultra 5 125U 1x 8GB SO-DIMM DDR5-5600 512GB SSD M.2 2242 PCIe 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Black",285000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkPad E14 Gen 5 Intel Core i7-13700H Turbo up to 3.7GHz 16GB Soldered DDR4-3200 512GB SSD M.2 2242 PCIe® 4.0×4 Opal 2.0 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Graphite Black",310000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo ThinkPad E14 Gen 5 Intel Core i5-1335U Turbo up to 3.4GHz 8GB SO-DIMM DDR4-3200 Soldered 512GB SSD M.2 2242 PCIe Intel Iris Xe Graphics 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Graphite Black",270000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo ThinkBook 16 G6 IRL 13th Gen Intel Core i5-1335U (3.40 GHz) 08GB DDR5 Ram 512GB SSD 16.0″ WUXGA  Arctic Grey DOS,193000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo ThinkBook 16 G6 IRL Intel Core i5-1335U 8GBx1 SO-DIMM DDR5-5200 512GB SSD M.2 2242 16″ WUXGA (1920×1200) IPS 300nits Anti-glare NO OS Arctic Grey,190000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkBook 15 G4 IAP Intel Core i7-1255U,8GB Soldered DDR4-3200 512GB SSD 15.6″ FHD IPS (1920×1080) Backlit,  Dos",232000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkBook 15 G4 IAP Intel Core i5-1235U 8GB Soldered DDR4 256GB SSD M.2 Intel Iris Xe Graphics 15.6″ FHD (1920×1080) IPS 300nits Anti-glare Backlit, English Mineral Grey Dos",215000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,"Lenovo ThinkBook 15 G2 ITL Intel Core i5-1135G7 8GB Base DDR4 1TB HDD 15.6” FHD,WIFI AX 2*2 BT,FPR,Keyboad MINERAL GREY DOS",160000,,ZahComputers,Lenovo,,8.0,
+Laptop,"Lenovo ThinkBook 14 G7 IML Intel® Core™ Ultra 7 155H 1x 8GB SO-DIMM DDR5-5600 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Arctic Grey",265000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo ThinkBook 14 G7 IML Intel® Core™ Ultra 5 125U 1x 8GB SO-DIMM DDR5-5600 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 300nits Anti-glare Backlit, English (EU) NO OS Arctic Grey",210000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo ThinkBook 15 G4 IAP 12th Gen Intel Core i7-1255U (3.5 GHz) 08GB Ram 512GB SSD 14″ FHD Mineral Grey DOS,258000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo ThinkBook 14 G2 11th Gen Core i5-1135G7 8GB DDR4 1TB HDD NVIDIA MX450 2GB Graphics 14″ FHD DOS,160000,,ZahComputers,Lenovo,,8.0,
+Laptop,Lenovo V15 G4 IRU Intel® Core™ i3-1315U 8GB Soldered DDR4-3200 256GB SSD M.2 2242 PCIe® 4.0×4 NVMe® 15.6″ FHD (1920×1080) TN 250nits Anti-glare English (UK) Business Black Dos,125000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,Lenovo V15 G4 IRU Intel Core i7-1355U 8GB Soldered DDR4-3200 512GB SSD M.2 2242 15.6″ FHD (1920×1080) TN 250nits Anti-glare NO OS Business Black,215000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo V15 G4 IRU Intel Core i5-13420H 8GB Soldered DDR4-3200 512GB SSD M.2 2242 15.6″ FHD (1920×1080) TN 250nits Anti-glare NO OS Business Black,170000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo V15 G4 IRU Intel Core i3-1315U 8GB Soldered DDR4-3200 256GB SSD M.2 2242 15.6″ FHD (1920×1080) TN 250nits Anti-glare NO OS Business Black,135000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,"Lenovo V15 G4 AMN AMD Ryzen 5 7520U 8GB Soldered LPDDR5 256GB SSD M.2 Integrated AMD Radeon™ 610M Graphics 15.6″ FHD (1920×1080) TN 250nits Anti-glare Non-backlit, English (UK) Business Black Dos",150000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,Lenovo V15 G4 AMN AMD Ryzen 3 7320U 8GB RAM 256GB SSD AMD Radeon 610M 15.6″ FHD TN FreeDOS Business Black,130000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,Lenovo V15 G3 IAP 12th GEN Intel Core i5-1235U (3.3GHz) 8GB RAM 512GB SSD 15.6″ FHD Business Black DOS,158000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo V15 G2 Intel® Core i5-1135G7, 4GB DDR4, 1TB HDD, Intel® Iris Xe UHD Graphics, 15.6″ FHD Color: Grey, DOS",152000,,ZahComputers,Lenovo,,4.0,
+Laptop,"Lenovo V15 G4 Intel Intel® Core™ i3-1315U, 8GB RAM 256GB SSD 15.6 Inch FHD-DOS",138000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,"Lenovo LOQ 15IRX9 Intel® Core™ i7-13650HX 24GB SO-DIMM DDR5-4800 (2x12GB) 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe 15.6″ FHD 1920×1080 IPS 300nits Anti-glare, 100% sRGB, 144Hz NVIDIA® GeForce RTX™ 4050 6GB GDDR6 White Backlit, English (UK) Luna Grey FreeDOS",330000,,ZahComputers,Lenovo,,12.0,512.0
+Laptop,Alienware 18 Area-51 Intel Core Ultra 9 processor 275HX GDDR7 Memory 64GB Storage 2TB M.2 PCIe Gen5 SSD Graphics NVIDIA GeForce RTX™ 5080 16 GB Gaming Laptop,1250000,,ZahComputers,Other,,64.0,
+Laptop,"Lenovo Legion Pro 7 16IAX10H, GeForce RTX 5080 16GB, Intel Core Ultra 9 275HX, 64GB RAM, 2 TB SSD, Win11, 16″ WQXGA Gaming Laptop",1260000,,ZahComputers,Lenovo,,16.0,
+Laptop,"Lenovo LOQ 15IRX9 Intel® Core™ i5-13450HX 1x 16GB SO-DIMM DDR5-4800 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe 15.6″ FHD (1920×1080) IPS 300nits Anti-glare NVIDIA® GeForce RTX™ 3050 6GB GDDR6 White Backlit, English (UK) NO OS Luna Grey",285000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"Lenovo LOQ 15IAX9E Intel® Core™ i7-12650HX 16GB SO-DIMM DDR5-4800 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe 15.6″ FHD 1920×1080 IPS 300nits Anti-glare, 100% sRGB, 144Hz NVIDIA® GeForce RTX™ 4050 6GB GDDR6 White Backlit, English (UK) Luna Grey FreeDOS",300000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,Lenovo IdeaPad Slim 3 15IRH8 Intel® Core™ i5-13420H 8GB Soldered LPDDR5-4800 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe® 15.6″ FHD (1920×1080) IPS 300nits Anti-glare English (UK) Arctic Grey Dos,133000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo IdeaPad Slim 3 15IRU8 Intel® Core™ i3-1315U 8GB Soldered LPDDR5-4800 256GB SSD M.2 2242 PCIe® 4.0×4 NVMe 15.6″ FHD (1920×1080) TN 250nits Anti-glare English (UK) NO OS Arctic Grey,120000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,Lenovo IdeaPad Slim 3 15IRU8 Intel® Core™ i3-1305U 8GB Soldered LPDDR5-4800 256GB SSD M.2 2242 PCIe® 4.0×4 NVMe 15.6″ FHD (1920×1080) TN 250nits Anti-glare DOS Arctic Grey,130000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,Lenovo IdeaPad Slim 3 15IRU8 Intel Core i3-1305U Turbo up to 3.3GHz 8GB Soldered LPDDR5-4800 256GB SSD M.2 2242 PCIe NVMe 15.6″ FHD TN 250nits Anti glare DOS Arctic Grey,133000,,ZahComputers,Lenovo,,8.0,256.0
+Laptop,"Lenovo IdeaPad Slim 3 15IRH8 Intel® Core™ i5-13420H 8GB Soldered LPDDR5-4800 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe® 15.6″ FHD (1920×1080) IPS 300nits Anti-glare Backlit, English (UK) DOS Arctic Grey",175000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen™ 7 7730U 8GB Soldered DDR4-3200 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe® 15.6″ FHD (1920×1080) IPS 300nits Anti-glare English (UK) NO OS Arctic Grey,160000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo IdeaPad Flex 5 14IRU8 Intel Core i7-1355U 16GB Soldered LPDDR4x-4266 512GB SSD M.2 2242 PCIe 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 300nits Glossy, 45% NTSC, TÜV Low Blue Light, Glass, Touch Backlit, Arabic Lenovo Digital Pen Windows 11 Home Arctic Grey",365000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,Lenovo IdeaPad FLEX 5 14IRU8 14″ Laptop Intel Core i5-1335U 8GB 512GB SSD W11H,305000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,"Lenovo IdeaPad 5 2-in-1 14IRH9 Intel® Core™ i5-13420H 16GB Soldered LPDDR5x-5200 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe 14″ WUXGA (1920×1200) IPS 300nits Glossy, 45% NTSC, 60Hz 10-point Multi-Touchscreen x360 Backlit, English (UK) Lenovo® Digital Pen 2 Luna Grey DOS",245000,,ZahComputers,Lenovo,,16.0,512.0
+Laptop,"HP EliteBook 660 G11 Intel® Core™ Ultra 7 155U 8 GB DDR5-5600 MT/s 512 GB PCIe® NVMe™ SSD 16″ diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 300 nits Fingerprint backlit keyboard FreeDOS Pike silver aluminum",330000,,ZahComputers,Hp,,8.0,512.0
+Laptop,"HP EliteBook 660 G11 Intel® Core™ Ultra 5 125U 8 GB DDR5-5600 MT/s 512 GB PCIe® NVMe™ SSD 16″ diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 300 nits Fingerprint backlit keyboard FreeDOS Pike silver aluminum",245000,,ZahComputers,Hp,,8.0,512.0
+Laptop,"HP EliteBook 640 G11 Intel® Core™ Ultra 7 155U 8 GB DDR5-5600 MHz RAM 512 GB PCIe® NVMe™ SSD 14″ diagonal, WUXGA (1920 x 1200), IPS narrow bezel, anti-glare, 300 nits, 45% NTSC FreeDOS Pike silver aluminum",330000,,ZahComputers,Hp,,8.0,512.0
+Laptop,"Lenovo IdeaPad 5 15ITL05 Laptop – Intel Core i5-1135G7 2.4 -4.2GHz, 8GB Soldered DDR4, 512GB SSD M.2 2280 PCIe 3.0×4 NVMe, NVIDIA GeForce MX450 2GB GDDR6, 15.6″ FHD (1920×1080) IPS 300nits Anti-glare, Graphite Grey, DOS",165000,,ZahComputers,Lenovo,,8.0,512.0
+Laptop,ASUS ExpertBook B3402FVA Intel Core i7 13th Gen 16GB 512GB 14 FHD X360 Touch Dos Black,233000,,ZahComputers,Asus,,16.0,512.0
+Laptop,Asus Vivobook 16 V3607VU-RP118 Intel Core 7 240H 16GB D5 1TB SSD 16.0″ WUXGA NVIDIA RTX 4050 6GB Graphics Backlit KB Dos Matte Black,365000,,ZahComputers,Asus,,16.0,
+Laptop,Asus Vivobook X1504VA-NJ104 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD Dos Cool Silver,145000,,ZahComputers,Asus,,8.0,512.0
+Laptop,ASUS Zenbook UX3405MA-PZ464W Intel Core Ultra 9 16GB 1TB 14″ Touch Backlit KB Win11 Blue,423000,,ZahComputers,Asus,,16.0,
+Laptop,"HP ProBook 450 G9 Intel Core i7 1255U Turbo up to 3.5 GHz, 8GB, 512, 15.6″FHD, AG+BL K/B, Intel9560 Ac2x2, FINGER PRINT, WEBCAM HD, DOS,HP Carrying Case Pike Silver Aluminum",205000,,ZahComputers,Hp,,8.0,
+Laptop,"HP ProBook 440 G10 Intel® Core™ i5-1335U 8GB DDR4-3200 512 GB PCIe® NVMe™ SSD 14″ diagonal, FHD (1920 x 1080), IPS, narrow bezel, anti-glare, 250 nits Fingerprint backlit keyboard FreeDOS Pike silver aluminum",210000,,ZahComputers,Hp,,8.0,512.0
